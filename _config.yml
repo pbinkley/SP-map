@@ -23,8 +23,8 @@ email: peter.binkley@ualberta.ca
 description: >- # this means to ignore newlines until "baseurl:"
   An index, rough and incomplete, of Bromyard's citations, with links to 
   a IIIF presentation of the Amerback printing (c.1484).
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/SP-map" # the subpath of your site, e.g. /blog
+url: "https://pbinkley.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 mastodon_username: "@pbinkley@code4lib.social"
 github_username:  pbinkley
 
