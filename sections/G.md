@@ -1,0 +1,386 @@
+---
+layout: page
+title: "Index: G"
+---
+
+
+ - Galfridus Monumotensis
+   - Histora regum Brittaniae
+     - 3.9 (cf.): [A.26.23](A.26.23)
+ - Gelasius papa: [I.4.8\*](I.4.8)
+   - ad Anastasium
+     - (in Decretum): [S.1.2\*](S.1.2)
+ - Geraldus Cambrensis
+   - Itinerarium: [I.2.8\*](I.2.8), [L.5.20\*](L.5.20)
+     - lib.1 c.3: [E.3.6\*](E.3.6)
+   - Itinerarium Kambriae (ed. Dimock)
+     - 2.7 (p.131): [C.9.2](C.9.2)
+   - Itinerarium per Walliam: [F.3.18\*](F.3.18)
+     - 2: [F.5.15\*](F.5.15)
+ - Gesta Alexandri: [A.27.67\*](A.27.67)
+ - Gesta Alexandri Magni: [D.9.7\*](D.9.7), [F.1.32\*](F.1.32)
+ - Gesta Bonifacii martyris
+   - (in Decretum): [P.13.60\*](P.13.60)
+ - Gesta Caroli Magni: [C.11.39\*](C.11.39), [E.3.29\*](E.3.29), [E.8.22\*](E.8.22)
+ - Gesta Hugonis de Sancto Victore: [E.6.17\*](E.6.17)
+ - Gesta Romanorum: [F.1.33\*](F.1.33), [P.3.37\*](P.3.37)
+ - Gesta romanorum
+   - see Historia septem sapientum: [A.27.59](A.27.59)
+ - Glossa interlinearis: [M.12.7\*](M.12.7)
+ - Glossa ordinaria: [S.9.3\*](S.9.3)
+   - 01=Gen.
+     - 5:25-30 (lifetime of Methusalah): [A.13.5\*](A.13.5)
+     - 42 (not in ed. prin.): [A.3.21\*](A.3.21)
+   - 03=Lev.
+     - 8:3 (PL version): [E.2.9](E.2.9)
+     - 11:39 (check): [A.15.32\*](A.15.32)
+   - 04=Num.
+     - 4:3: [B.2.29\*](B.2.29)
+     - 19:11 (not in ed. prin.): look in Leviticus 17: [A.15.32\*](A.15.32)
+   - 09=1 Reg.
+     - 31: [A.15.32\*](A.15.32)
+   - 15=1 Esdr.
+     - 1:4 (cf.): [A.13.8\*](A.13.8)
+   - 20=Iob
+     - 19:16: [V.9.1\*](V.9.1)
+   - 21=Ps.
+     - 12 (check): [C.1.17\*](C.1.17)
+     - 58:7 (?): [C.4.17](C.4.17)
+     - 61:11 (gl. marg. ad v. "Rapinas"): [A.12.27](A.12.27)
+     - 74 (check): [A.20.21\*](A.20.21)
+   - 22=Prov.
+     - 4:18 (check reading): [A.19.6\*](A.19.6)
+     - 4:25-26 (ad literam): [C.15.9](C.15.9)
+     - 29:12 (check text): [A.12.45\*](A.12.45)
+   - 23=Eccles.
+     - 9:12: [R.6.12\*](R.6.12)
+   - 26=Ecclus.
+     - 21:5 ad v. "Obiurgatio" (marg.): [C.9.3](C.9.3)
+     - 35:20 (check text): [A.16.2\*](A.16.2)
+   - 27=Is.
+     - 3:15 Adteritis populum meum: [P.13.14\*](P.13.14)
+     - 5:20 (check text): [A.15.17\*](A.15.17)
+     - 64:5 ad v. "Non sustinebimus" (marg.): [A.13.5](A.13.5)
+     - 66:14: [R.7.2\*](R.7.2)
+   - 33=Os.
+     - 4:8 (check): [A.15.22\*](A.15.22)
+     - 7: [P.13.59\*](P.13.59)
+   - 35=Am.
+     - 8:11 ad v. "famem" (interl.): [A.26.8](A.26.8)
+   - 38=Mich.
+     - 7: [I.9.22\*](I.9.22)
+   - 43=Zach.
+     - 5:3: [R.1.4\*](R.1.4)
+   - 47=Mt.
+     - 21:33 ff.: [V.9.21\*](V.9.21)
+   - 48=Mc.
+     - 9: [P.3.34\*](P.3.34)
+   - 49=Lc.
+     - 3:11: [M.9.31\*](M.9.31)
+   - 50=Io.
+     - 4:14 (check): [A.20.11\*](A.20.11)
+     - 16:7: [R.5.6\*](R.5.6)
+   - 51=Act.
+     - 2: Factus est repente: [S.13.17\*](S.13.17)
+   - 52=Rom.
+     - 1:32 (gl. marg. ad v. "Qui consentiunt", not attributed): [C.16.50](C.16.50)
+     - 1 Quoniam digni sunt morte: [T.2.3\*](T.2.3)
+     - 14:23 ad v. "omne" (interl.): [C.7.15](C.7.15)
+   - 53=1 Cor.
+     - 9:24 ad v. "unus" (interl.): [A.10.5](A.10.5), [P.7.26](P.7.26)
+     - 11: [E.6.8\*](E.6.8)
+   - 55=Gal.
+     - 6:1: [S.1.3\*](S.1.3)
+   - 66=Iac.
+     - 1:2 \*: [A.1.7](A.1.7)
+     - 2: [E.2.18\*](E.2.18)
+     - 5:1 ad v. "Agite" (interl.): [C.5.23](C.5.23)
+   - 73=Apoc.
+     - 20:12 ad v. "et libri aperti" (marg.): [C.7.18](C.7.18)
+   - Gen
+     - 19:3 (attrib. Alcuin): [H.5.3](H.5.3)
+   - Mt
+     - 8:22 (check ed. prin.): [A.15.5\*](A.15.5)
+     - 15:3 (check): [C.16.17\*](C.16.17)
+   - Ps
+     - 53:3 (check text): [A.14.11\*](A.14.11)
+   - Super Exod.
+     - 8:2: [A.14.20\*](A.14.20)
+ - Gregorius I: [D.4.13\*](D.4.13), [D.6.19\*](D.6.19), [D.6.31\*](D.6.31), [D.9.5\*](D.9.5), [D.11.28\*](D.11.28), [D.12.38\*](D.12.38), [E.6.22\*](E.6.22), [E.7.1\*](E.7.1), [E.7.2\*](E.7.2), [E.8.15\*](E.8.15), [F.3.17\*](F.3.17), [G.2.24\*](G.2.24), [H.6.31\*](H.6.31), [I.2.10\*](I.2.10), [I.3.7\*](I.3.7), [I.3.12\*](I.3.12), [I.5.6\*](I.5.6), [I.11.2\*](I.11.2), [L.7.36\*](L.7.36), [M.4.3\*](M.4.3), [M.10.2\*](M.10.2), [M.10.10\*](M.10.10), [M.11.18\*](M.11.18), [M.11.90\*](M.11.90), [M.11.102\*](M.11.102), [M.11.133\*](M.11.133), [M.11.148\*](M.11.148), [M.11.151\*](M.11.151), [M.13.18\*](M.13.18), [O.5.8\*](O.5.8), [O.6.14\*](O.6.14), [O.6.24\*](O.6.24), [O.6.45\*](O.6.45), [O.6.50\*](O.6.50), [O.6.53\*](O.6.53), [O.6.55\*](O.6.55), [P.1.9\*](P.1.9), [P.3.33\*](P.3.33), [P.4.12\*](P.4.12), [P.5.9\*](P.5.9), [P.5.30\*](P.5.30), [P.7.33\*](P.7.33), [P.7.48\*](P.7.48), [P.7.52\*](P.7.52), [P.8.9\*](P.8.9), [P.8.17\*](P.8.17), [P.8.25\*](P.8.25), [P.9.11\*](P.9.11), [P.11.2\*](P.11.2), [P.11.8\*](P.11.8), [P.11.16\*](P.11.16), [P.13.6\*](P.13.6), [P.13.11\*](P.13.11), [P.13.32\*](P.13.32), [P.13.43\*](P.13.43), [P.13.45\*](P.13.45), [P.13.57\*](P.13.57), [R.5.10\*](R.5.10), [R.5.15\*](R.5.15), [R.5.41\*](R.5.41), [R.7.6\*](R.7.6), [R.7.15\*](R.7.15), [S.1.3\*](S.1.3), [S.3.15\*](S.3.15), [S.10.5\*](S.10.5), [S.14.3\*](S.14.3), [S.14.6\*](S.14.6), [S.14.6\*](S.14.6), [S.14.12\*](S.14.12), [S.14.13\*](S.14.13), [T.1.8\*](T.1.8), [T.1.12\*](T.1.12), [T.5.36\*](T.5.36), [T.5.40\*](T.5.40), [T.5.57\*](T.5.57), [V.3.7\*](V.3.7), [V.7.16\*](V.7.16), [V.7.17\*](V.7.17), [V.8.3\*](V.8.3), [V.8.26\*](V.8.26), [V.8.42\*](V.8.42), [V.11.5\*](V.11.5)
+   - Ad Mauritium imperatorem
+     - (in Decretum): [S.1.1\*](S.1.1), [S.1.6\*](S.1.6)
+   - Ad servum Dei Secundum
+     - (in Decretum): [P.13.1\*](P.13.1)
+   - De animarum(?)
+     - 4: [L.5.21\*](L.5.21)
+   - De conflictu vitiorum: [P.5.12\*](P.5.12)
+   - Dialogi
+     - lib.4 versus finem libri: [M.10.7\*](M.10.7)
+   - Dialogorum libri: [D.12.32\*](D.12.32), [E.3.15\*](E.3.15), [G.3.13\*](G.3.13), [G.5.7\*](G.5.7), [O.6.75\*](O.6.75), [P.3.3\*](P.3.3), [R.5.18\*](R.5.18), [T.5.59\*](T.5.59), [T.5.73\*](T.5.73)
+     - 1: [F.4.34\*](F.4.34), [I.8.11\*](I.8.11), [P.1.17\*](P.1.17), [R.5.40\*](R.5.40)
+     - 1.5 (ed. Moricca, p.41 ll.17-18): [A.18.5](A.18.5)
+     - 1.9: [E.3.14\*](E.3.14)
+     - 1.15: [H.6.14\*](H.6.14)
+     - 2: [D.6.27\*](D.6.27), [E.3.30\*](E.3.30), [E.9.7\*](E.9.7), [I.1.11\*](I.1.11), [I.6.19\*](I.6.19), [O.5.3\*](O.5.3), [O.7.14\*](O.7.14), [S.11.10\*](S.11.10)
+     - 2.3 (Cetedoc): [C.17.22](C.17.22)
+     - 2.24: [G.2.36\*](G.2.36)
+     - 2.35: misattribution: [A.25.17](A.25.17)
+     - 3: [I.8.11\*](I.8.11)
+     - 3.1 (CETEDOC): [A.13.7](A.13.7)
+     - 3.7 (Cetedoc): [C.10.22](C.10.22), [C.17.21](C.17.21)
+     - 3.17: [S.11.10\*](S.11.10)
+     - 3.32: [L.7.33\*](L.7.33)
+     - 4: [D.1.9\*](D.1.9), [D.1.10\*](D.1.10), [D.1.10\*](D.1.10), [D.1.10\*](D.1.10), [D.4.12\*](D.4.12), [D.4.13\*](D.4.13), [E.3.35\*](E.3.35), [E.6.14\*](E.6.14), [E.6.16\*](E.6.16), [E.8.14\*](E.8.14), [I.12.30\*](I.12.30), [P.8.24\*](P.8.24), [V.8.48\*](V.8.48), [V.8.56\*](V.8.56)
+     - 4.1: [F.4.8\*](F.4.8), [P.8.3\*](P.8.3)
+     - 4.5 (Cetedoc): [A.23.3](A.23.3)
+     - 4.5, l.37 (Cetedoc): [A.23.1](A.23.1)
+     - 4.5, l.43 (Cetedoc): [A.23.2](A.23.2)
+     - 4.5, l.53 (Cetedoc): [A.23.1](A.23.1)
+     - 4.6 (Cetedoc): [A.23.4](A.23.4)
+     - 4.6, l.2 (Cetedoc): [A.23.3](A.23.3)
+     - 4.19: [A.3.3](A.3.3)
+     - 4.34: [A.25.17\*](A.25.17)
+     - 4.37: [A.2.4](A.2.4), [R.1.26\*](R.1.26)
+     - 4.50: [S.11.6\*](S.11.6)
+     - 4 (general reference): [A.26.25\*](A.26.25), [D.2.13\*](D.2.13)
+     - 4 (in Decretum): [P.8.1\*](P.8.1)
+     - 4.prin.: [R.7.2\*](R.7.2)
+     - in Decretum: [L.4.12\*](L.4.12)
+     - (in Decretum): [P.11.8\*](P.11.8)
+     - lib. 1: [F.4.25\*](F.4.25)
+     - lib.2 c.7: [O.1.7\*](O.1.7)
+     - lib.4: [M.11.38\*](M.11.38), [M.11.39\*](M.11.39), [M.11.40\*](M.11.40), [M.11.40\*](M.11.40), [M.11.40\*](M.11.40), [M.11.40\*](M.11.40), [M.11.42\*](M.11.42), [M.11.48\*](M.11.48), [M.11.49\*](M.11.49), [M.11.118\*](M.11.118)
+     - Prol.: [P.13.47\*](P.13.47)
+   - Ep.
+     - 1.25 (PL 77.470): [P.12.21](P.12.21)
+   - Ep. ad Venatium episcopum
+     - (in Decretum): [P.12.35](P.12.35)
+   - false reference: [A.13.14](A.13.14)
+   - Glossa: [P.4.3\*](P.4.3)
+   - Homel. cum audisset Ioan. in vinculis: [P.2.1\*](P.2.1)
+   - Homelia de discipulis euntibus in Emaus: [H.5.5\*](H.5.5), [L.5.27\*](L.5.27)
+   - Homelia de obmutescente: [O.6.18\*](O.6.18)
+   - Homelia quadam: [H.5.5\*](H.5.5)
+   - Homeliae in Evangelia
+     - 17: [O.6.18\*](O.6.18)
+   - Homilia de Maria que stabat ad monumentum foris plorans: [P.9.1\*](P.9.1)
+   - Homilia de sancto spiritu: [D.9.14\*](D.9.14), [D.9.15\*](D.9.15)
+   - Homilia "Ductus est Iesus in desertum": [T.1.9\*](T.1.9)
+   - Homilia Duo ex discipulis Iesu ibant etc.: [P.10.3\*](P.10.3)
+   - Homilia Ego sum pastor bonus: [P.13.26\*](P.13.26)
+   - Homilia Erunt signa etc.: [T.5.19\*](T.5.19), [T.5.19\*](T.5.19)
+   - Homilia in Evangelia
+     - 2.39.3 (PL 76.1295C) (cf.): [C.5.7](C.5.7), [C.5.24](C.5.24), [C.12.2](C.12.2)
+   - Homilia Maria stabat ad monumentum: [P.9.2\*](P.9.2), [P.9.8\*](P.9.8)
+   - Homilia quaedam: [D.5.3\*](D.5.3), [E.3.43\*](E.3.43), [E.6.24\*](E.6.24), [R.1.25\*](R.1.25), [S.4.20\*](S.4.20), [T.5.11\*](T.5.11), [T.5.31\*](T.5.31), [V.9.13\*](V.9.13)
+     - (in Decretum): [T.3.4\*](T.3.4)
+   - Homilia quaedam (sec. MF): [A.27.21\*](A.27.21)
+   - Homilia super Ezechielem
+     - 10, secundae partis: [V.6.1\*](V.6.1)
+   - Homiliae: [E.3.34\*](E.3.34), [S.1.12\*](S.1.12)
+     - 5: [P.3.33\*](P.3.33)
+     - non inveni: [A.27.43](A.27.43)
+   - Homiliae in Evangelia
+     - 1.17.6 (PL 76.1141B-C) (paraphrase): [A.26.2](A.26.2)
+   - Homiliae in evangelia
+     - Mt. 25: [G.2.38\*](G.2.38)
+   - Homiliae in Ezechielem
+     - 2.2 (PL 76.1051): [P.12.14](P.12.14)
+     - 21, pt.2: [S.4.7\*](S.4.7)
+   - Homiliae in Hiezechihelem prophetam
+     - 1.8 l.148 (cetedoc): [C.1.9](C.1.9)
+     - 1.8 l.184 (Cetedoc) (cf.) (attrib. by Bromyard to Jerome; in Manipulus florum, Discordia.f as from Jerome): [C.9.6](C.9.6)
+     - 1.9 l.271 (cetedoc): [A.21.16](A.21.16)
+     - 1.11, l.402 (Cetedoc): [C.8.8](C.8.8)
+     - 2.6 l.201  (cetedoc): [C.16.30](C.16.30)
+     - 2.6 l.422 (CETEDOC): [A.27.7](A.27.7)
+   - Homiliae super evangelium: [I.11.14\*](I.11.14)
+   - Homiliae super Evangelium
+     - 17: [P.13.28\*](P.13.28)
+   - Homiliae super Ezechielem
+     - 2.3 (PL 76.959): [P.12.34](P.12.34)
+   - Homiliae Super Ezechielem
+     - 9: [S.10.11\*](S.10.11)
+   - Homiliae super Ezechielem
+     - 12: [S.1.9\*](S.1.9)
+     - hom. 10: [I.2.1\*](I.2.1)
+   - in Decretum: [E.2.15\*](E.2.15), [I.10.16\*](I.10.16), [O.6.66\*](O.6.66)
+   - (in Decretum): [P.5.1\*](P.5.1), [P.7.1\*](P.7.1), [P.11.9\*](P.11.9), [P.12.27\*](P.12.27), [P.13.3\*](P.13.3), [P.13.24\*](P.13.24), [S.1.4\*](S.1.4), [S.5.3\*](S.5.3), [S.9.8\*](S.9.8), [T.2.1\*](T.2.1), [T.3.1\*](T.3.1), [T.5.57\*](T.5.57)
+   - In Evangelia
+     - 34.10 (PL 76.1251C-52B): [A.22.4](A.22.4)
+   - In Hiezechielem
+     - I. Homilia III, §5: [Prol.1](Prol.1)
+     - I, Homilia XII, §30 (lines 578-579): [Prol.6](Prol.6)
+   - Liber responsalis
+     - in vigilia apostolorum, ad Vesperas (PL 78.819D): [A.10.4](A.10.4), [A.13.3](A.13.3)
+   - misattribution: [A.15.25](A.15.25), [C.5.11\*](C.5.11), [C.12.11](C.12.11)
+   - Moralia in Iob: [D.11.14\*](D.11.14), [G.2.16\*](G.2.16), [O.6.16\*](O.6.16), [P.4.30\*](P.4.30), [R.5.43\*](R.5.43), [S.13.22\*](S.13.22), [V.7.13\*](V.7.13)
+     - 1.1 l.7 (cetedoc): [C.13.4](C.13.4)
+     - 1.30 l.11 (cetedoc): [C.10.24](C.10.24)
+     - 1.32 l.30 (cetedoc): [C.11.7](C.11.7)
+     - 2: [P.8.9\*](P.8.9)
+     - 4.27.52 (CCSL 143A.196-7 ll. 126-7): [A.15.5](A.15.5)
+     - 4.27 l.92 (cetedoc): [C.8.9](C.8.9)
+     - 5: [V.7.16\*](V.7.16)
+     - 6: [S.12.1\*](S.12.1)
+     - 7: [F.6.1\*](F.6.1), [F.6.2\*](F.6.2)
+     - 7.24 l.27 (cetedoc): [A.21.18](A.21.18)
+     - 8: [S.11.6\*](S.11.6)
+     - 8 super Iob 7 Consumpti sunt absque ulla spe: [S.12.8\*](S.12.8)
+     - 9: [D.1.4\*](D.1.4), [T.5.36\*](T.5.36), [T.5.54\*](T.5.54)
+     - 10: [O.5.27\*](O.5.27), [S.3.12\*](S.3.12), [S.12.3\*](S.12.3), [T.3.1\*](T.3.1)
+     - 12: [N.4.5\*](N.4.5)
+     - 12.21 l.7 (cetedoc): [A.25.17](A.25.17)
+     - 13: [R.7.2\*](R.7.2)
+     - 14: [D.6.12\*](D.6.12)
+     - 14.20, l.2 (Cetedoc): [C.5.13](C.5.13)
+     - 14 super Iob 18 Abscondita est decipula eius: [T.1.5\*](T.1.5)
+     - 15.23 (PL 75.1095B-C) (cf.) (attrib. Seneca): [A.27.21](A.27.21)
+     - 16: [I.7.11\*](I.7.11), [P.1.6\*](P.1.6)
+     - 17.10.13 (CCCM 193A.859): [A.1.7](A.1.7)
+     - 17.26 (PL 76.27): [P.12.26](P.12.26)
+     - 19.12 l.47 (cetedoc): [C.10.8](C.10.8)
+     - 19 (in Decretum): [S.4.2\*](S.4.2)
+     - 20: [P.8.17\*](P.8.17)
+     - 20.2 (PL 76.137): [P.12.26](P.12.26)
+     - 20.21 l.15 (cetedoc): [C.16.46](C.16.46)
+     - 20.36 l.13 (cetedoc): [C.12.4](C.12.4)
+     - 21.4 §8 (PL 76.193B): [A.4.3](A.4.3)
+     - 22: [D.2.15\*](D.2.15), [P.13.28\*](P.13.28)
+     - 22.7.16-17 ll.66-67, 80-83, 89-98: [A.18.3](A.18.3)
+     - 22.15 l.5 (CETEDOC): [C.6.50](C.6.50)
+     - 22.22-23.53-54 (PL 76.185): [P.12.8](P.12.8)
+     - 22: Iob 31 Si letatus sum super multis divitiis: [D.2.15\*](D.2.15)
+     - 23: [P.5.19\*](P.5.19)
+     - 24.7.14 (cetedoc): [A.21.8](A.21.8)
+     - 24.11 l.220: [C.10.25](C.10.25)
+     - 25: [P.5.20\*](P.5.20), [R.5.30\*](R.5.30)
+     - 25.9 l.14 (SL 143B) (Cetedoc): [C.6.24](C.6.24)
+     - 25 in fine: [P.13.59\*](P.13.59)
+     - 26: [R.5.44\*](R.5.44), [T.5.35\*](T.5.35), [V.7.16\*](V.7.16)
+     - 26 super illud Iob. "Iudicium pauperibus tribuit": [I.11.5\*](I.11.5)
+     - 27: [F.4.34\*](F.4.34)
+     - 28.21 (PL 76.432) (quoted in Hugh, ®MDIT¯Postill®MDNM¯, Iob 37:11-12): [P.12.2](P.12.2)
+     - 29: [S.12.2\*](S.12.2)
+     - 30: [V.7.18\*](V.7.18)
+     - 30.3 (PL 76.530): [P.12.25](P.12.25), [P.12.28](P.12.28), [P.12.28](P.12.28)
+     - 30.18.58 (PL 76.555) (attrib. to Ambrosius, De officiis): [B.2.37](B.2.37)
+     - 31: [R.5.40\*](R.5.40)
+     - 32: [F.1.29\*](F.1.29)
+     - 33: [V.10.6\*](V.10.6)
+     - 34: [D.1.8\*](D.1.8)
+     - 35: [O.1.5\*](O.1.5), [O.1.6\*](O.1.6)
+     - Epistola missoria c.2 (PL 75.513): [P.12.34](P.12.34)
+     - in Decretum: [D.6.14\*](D.6.14)
+     - (in Decretum): [P.9.4\*](P.9.4), [S.1.3\*](S.1.3)
+     - Iob 19: [L.5.22\*](L.5.22)
+   - Moralia in Iob (?)
+     - Iob 20: [G.1.1\*](G.1.1)
+   - Moralia in Iob
+     - Iob 20: Laus impiorum brevis: [D.5.4\*](D.5.4)
+     - Iob 21: [S.8.15\*](S.8.15)
+     - Iob 21 Pepigi fedus cum oculis meis ...: [V.4.2\*](V.4.2)
+     - Iob 31: [O.6.23\*](O.6.23)
+     - lib.3 (in Decretum): [M.1.4\*](M.1.4)
+     - lib.6: [M.9.37\*](M.9.37)
+     - lib.9 super Iob 10 "Si impius fuero": [M.11.51\*](M.11.51)
+     - lib.10: [M.11.10\*](M.11.10)
+     - lib.16: [M.11.145\*](M.11.145)
+     - lib.21: [M.8.12\*](M.8.12)
+     - lib.24: [M.11.10\*](M.11.10)
+     - misattribution: see Ricardus de Sancto Victore: [Prol.6](Prol.6)
+     - Praef., 2.: [Prol.4](Prol.4)
+     - super illud Iob 41 Una uni coniungitur...: [F.1.10\*](F.1.10)
+   - Pastoralia: [D.1.19\*](D.1.19), [O.6.8\*](O.6.8), [O.6.55\*](O.6.55), [O.6.65\*](O.6.65), [P.4.27\*](P.4.27)
+     - 1.1: [P.13.12\*](P.13.12)
+     - 1.1 (PL 77.14): [P.12.13](P.12.13)
+     - 1.2 (PL 77.15): [P.12.16](P.12.16)
+     - 1.6 (PL 77.19): [P.12.35](P.12.35)
+     - 2.4: [P.12.27](P.12.27), [P.12.28](P.12.28)
+     - 3.16 [al.39] (PL 77.75): [P.12.24](P.12.24)
+     - 3.25 (PL 77.96): [P.12.22](P.12.22)
+     - 3.39 [al. 63] (PL 77.124): [P.12.26](P.12.26)
+     - 3.46: [S.10.11\*](S.10.11)
+     - 3.52 (check in book): [C.6.2\*](C.6.2)
+     - 3.prol (PL 77.49): [P.12.28](P.12.28)
+     - c.12: [V.8.41\*](V.8.41)
+     - c.15 (in Decretum): [P.13.5\*](P.13.5)
+     - in Decretum: [O.6.19\*](O.6.19)
+   - Pastoralis: [E.7.3\*](E.7.3), [H.2.1\*](H.2.1), [I.6.9\*](I.6.9), [L.5.23\*](L.5.23), [L.7.4\*](L.7.4), [P.13.50\*](P.13.50)
+     - 3: [E.3.45\*](E.3.45)
+     - 3.58: [G.2.16\*](G.2.16)
+   - Prologus istius tractatus (i.e. SP)
+     - in fi.: [L.7.21\*](L.7.21)
+   - quotation in prol., versus finem: [P.12.3\*](P.12.3)
+   - Registrum: [F.3.6\*](F.3.6), [P.7.33\*](P.7.33), [P.13.12\*](P.13.12)
+     - 3 (ante finem) (not in Cetedoc or full PL): [A.18.5\*](A.18.5)
+     - (in Decretum): [P.12.11\*](P.12.11), [P.12.35\*](P.12.35), [P.13.12\*](P.13.12), [S.1.7\*](S.1.7)
+   - Registrum epistularum
+     - 3.51 (ed. Moricca, p.196 ll.13-14): [A.18.5](A.18.5)
+     - 7.4, l.11 (Cetedoc): [A.13.9](A.13.9), [A.27.55](A.27.55)
+     - 9.197 l.52 (cetedoc) (check end): [C.16.50](C.16.50)
+     - 9.228 (p.804 ll.55-59): [A.18.4](A.18.4)
+     - 12.9 (ed. D. Norberg, CCSL 190A, p.981 ll.13-14) (cf.): [C.11.6](C.11.6)
+     - 12.9, l.10 (cf.) (Cetedoc): [A.17.7](A.17.7), [B.2.49](B.2.49)
+   - Regula pastoralis
+     - 1.1 l.2 (CETEDOC): [C.5.18](C.5.18)
+     - 1.2 l.6 (cetedoc): [C.16.41](C.16.41)
+     - 2.6 l.110 (cetedoc): [C.16.16](C.16.16)
+     - 2.8 l.29 (cetedoc): [C.16.6](C.16.6)
+     - 3.2 l.51 (cf.): [C.16.15](C.16.15)
+     - 3.14 l.31: [C.6.46](C.6.46)
+     - 3.17 l.56 (cf.): [C.16.15](C.16.15)
+     - 3.22 l.96 (cetedoc): [A.21.23](A.21.23)
+     - 3.25 l.86 (cetedoc): [C.16.47](C.16.47)
+     - 3.26, l.7 (Cetedoc): [A.3.17](A.3.17)
+   - see Decretum, C.26 q.6 c.6 (Martinus papa): [C.5.15](C.5.15)
+   - Super evang.
+     - Io.14 Venit princeps: [M.11.47\*](M.11.47)
+   - Super evangelia
+     - lib.1 hom.15: [M.11.40\*](M.11.40)
+   - Super Ezechielem: [V.11.5\*](V.11.5)
+     - 1.9: [D.6.7\*](D.6.7)
+     - 2.1 (look in book): [C.1.8\*](C.1.8)
+     - hom.7: [P.1.3\*](P.1.3)
+     - li.1 hom.11: [I.11.23\*](I.11.23)
+   - Super Proverbiorum
+     - 25: Ventus aquilo: [D.6.12\*](D.6.12)
+   - Super Psalmos
+     - Ps.22 Virga tua et baculus tuus ipsa me consolata sunt: [P.13.6\*](P.13.6)
+   - xl homiliarum in euangelia libri duo
+     - 1, 6, 6.: [Prol.6](Prol.6)
+     - 1.6 c.6 l.7 (cetedoc): [A.22.17](A.22.17)
+     - 1.16 c.5 l.49 (CETEDOC): [A.4.9](A.4.9)
+     - 1.17 c.8 l.20 (cetedoc): [A.15.22](A.15.22)
+     - 2.26 c.11 l.1 (CETEDOC): [C.6.21](C.6.21)
+     - 2.28 c.2 l.28 (cetedoc): [A.13.20](A.13.20)
+     - 2.30 c.2 l.21 (CETEDOC): [A.20.10](A.20.10)
+     - 2.30 c.2 l.30 (CETEDOC): [A.8.12](A.8.12), [A.20.13](A.20.13)
+     - 2.32.1 (Cl. 1711): [A.27.1](A.27.1)
+     - 2.32 c.3 l.5 (CETEDOC): [C.17.31](C.17.31)
+     - 2.33 c.5 l.31 (cetedoc): [C.12.13](C.12.13)
+     - 33.2 (PL 76.1240A-B) (check in CSEL): [A.20.11](A.20.11)
+     - 34.11 (PL 76.1252D) (check in CSEL): [A.22.17\*](A.22.17)
+   - xl homliarum in evangelium
+     - 1.15 (PL 76.1132): [V.2.7](V.2.7)
+ - Gregorius Nasanzenus
+   - (in Bernardus): [P.12.32\*](P.12.32)
+ - Gregorius Nazianzenus
+   - Apologeticus liber: [E.7.4\*](E.7.4)
+   - (in Decretum): [S.8.9\*](S.8.9)
+   - (in Gregory I, Pastoralia, 3.prol): [P.12.28\*](P.12.28)
+ - Gregorius X papa
+   - Concilium Lugdunense: [V.12.23\*](V.12.23)
+     - (in Sext): [V.12.27\*](V.12.27)
+ - Guide to Rome?: [I.12.28\*](I.12.28)
+ - Guillaume de Conches(?)
+   - Moralia dogma philosophorum
+     - p.63 18-20 \*: [A.27.7](A.27.7)
+ - Guillelmus canonista
+   - Glossa in decretales: [L.6.2\*](L.6.2)
+ - Guillelmus Peraldus
+   - Summa de vitiis
+     - 4 (Acedia) 1.3 (Lyons 1668, Wenzel's transcription, p.170a) (cf.): [A.8.1](A.8.1)
+     - 4 (Acedia) 1.3 (Lyons 1668, Wenzel's transcription, p.171b) (cf.): [A.8.12](A.8.12)
+     - 4 (Acedia) 2.4 (Lyons 1668, Wenzel's transcription, p.180) (cf.): [A.8.7](A.8.7)
+     - 5 (Acedia) 2.5 (Lyons 1668, Wenzel's transcription, p.193b): [A.23.24](A.23.24)

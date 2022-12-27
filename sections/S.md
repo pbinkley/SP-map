@@ -1,0 +1,191 @@
+---
+layout: page
+title: "Index: S"
+---
+
+
+ - Salustius
+   - in Decretum (id. in Gl. ord.): [I.2.10](I.2.10)
+ - Sanctus quidam: [A.12.37\*](A.12.37), [C.6.44\*](C.6.44)
+ - Sarracenus quidam: [C.11.3\*](C.11.3)
+ - Sarum Breviary
+   - Dominica Prima Quadragesimae
+     - Ad Vesperas, Capitulum (v.1 col.dlxxi): [C.6.29](C.6.29)
+ - Satiricus: [L.6.8\*](L.6.8)
+ - Scipio
+   - De rep.
+     - 2.42 ff. (via Aug., De civ. Dei 2.21): [C.4.6](C.4.6)
+ - Secreta secretorum: [C.8.5\*](C.8.5)
+ - Secundus philosophus: [P.3.6\*](P.3.6)
+ - Seneca: [C.16.12\*](C.16.12), [D.11.26\*](D.11.26), [E.3.8\*](E.3.8), [G.2.36\*](G.2.36), [I.2.2\*](I.2.2), [I.2.10\*](I.2.10), [I.2.10\*](I.2.10), [I.10.10\*](I.10.10), [I.13.7\*](I.13.7), [L.5.14\*](L.5.14), [N.3.1\*](N.3.1), [N.4.4\*](N.4.4), [P.3.3\*](P.3.3), [P.9.12\*](P.9.12), [P.12.17\*](P.12.17), [T.5.63\*](T.5.63), [V.1.5\*](V.1.5)
+   - Ad Lucilium: [S.4.15\*](S.4.15)
+     - Ep. 24 (in MF, Philosophia.y): [P.12.18\*](P.12.18)
+     - Ep.77: [M.14.17\*](M.14.17)
+   - Ad Lucillum epistulae morales
+     - 2.5-6: [A.27.7](A.27.7)
+     - 5.3: [C.13.10](C.13.10)
+     - 9.10-12: [A.21.17](A.21.17)
+     - 15.3: [C.2.13](C.2.13)
+     - 41.6: [A.15.4](A.15.4)
+     - 65.21 (sec. Wenzel): [C.2.13](C.2.13)
+     - 72.8: [A.27.17](A.27.17)
+     - 74.14-17: [B.4.8](B.4.8)
+     - 77.5.7 (concordance): [C.11.28](C.11.28)
+     - 78.26: [A.8.1](A.8.1)
+     - 82.3: [A.8.7](A.8.7)
+     - 94.40.2 (concordance): [C.13.5](C.13.5)
+     - 123.11.1 (concordance): [A.12.16](A.12.16)
+   - (attrib. Apuleius in MF): [A.15.4](A.15.4)
+   - De beata vita liber
+     - prin.: [E.7.4](E.7.4)
+   - De beneficiis: [D.11.5\*](D.11.5)
+     - 1: [S.3.6\*](S.3.6)
+     - 1.2: [G.4.2\*](G.4.2), [G.4.13\*](G.4.13)
+     - 1.3.2-5: [A.10.9](A.10.9)
+     - 1-8.2.1 (concordance): [C.14.16](C.14.16)
+     - 2: [S.3.6\*](S.3.6)
+     - 2-27.3.3 (concordance): [A.27.17](A.27.17)
+     - 2-27.3.4 (concordance): [A.27.6](A.27.6)
+     - 6-30.3.3 (concordance): [A.15.19](A.15.19)
+     - 6-30.5.3 (?) (concordance): [C.11.31](C.11.31)
+     - 6-31.1.1 (concordance): [A.15.19](A.15.19)
+     - 7: [R.3.4\*](R.3.4)
+     - 7-10.4.2 (?) (concordance): [A.27.16](A.27.16)
+     - lib.3: [D.11.20\*](D.11.20)
+     - lib.4: [F.8.15\*](F.8.15)
+   - De clemencia
+     - 1-19.6.5 (concordance): [B.2.56](B.2.56)
+   - De clementia
+     - 1.4: [V.5.8\*](V.5.8)
+   - De clementia ad Neronem: [V.5.4\*](V.5.4)
+     - 1.4: [V.5.6\*](V.5.6)
+     - 1.5: [V.5.6\*](V.5.6)
+   - De constantia sapientis: [P.3.3\*](P.3.3)
+     - 3.5: [A.18.8](A.18.8)
+   - De contemptu mortis: [M.11.72\*](M.11.72)
+   - De ira
+     - 3: [V.5.7\*](V.5.7)
+     - 3.5.8: [A.18.8](A.18.8)
+     - li.3: [I.11.23\*](I.11.23)
+   - De moribus: [L.7.47\*](L.7.47), [M.11.102\*](M.11.102), [N.3.1\*](N.3.1)
+   - De naturalibus quaestionibus
+     - 1-2.1.5 (?) (concordance): [C.9.1](C.9.1)
+     - lib.3 in fi.: [M.11.3\*](M.11.3)
+     - lib.8: [N.4.2\*](N.4.2)
+   - De naturalibus questionibus
+     - 3.1: [R.4.5\*](R.4.5)
+   - De providentia
+     - 2.1: [A.18.8](A.18.8)
+     - 4.16: [A.18.3](A.18.3)
+   - De quatuor virtutibus: [S.3.8\*](S.3.8)
+   - De remediis fortuitorum: [I.10.10\*](I.10.10), [M.11.73\*](M.11.73)
+   - De remediis fortunarum: [D.6.15\*](D.6.15)
+   - De senectute: [M.11.72\*](M.11.72)
+   - De tranquillitate: [L.6.1\*](L.6.1)
+   - De tranquillitate animi
+     - 3.3.4 (concordance): [C.4.15](C.4.15)
+   - Declamationes
+     - 7: [V.1.10\*](V.1.10)
+   - Declarationes: [R.5.11\*](R.5.11)
+     - 5: [O.1.13\*](O.1.13)
+   - Ep.
+     - 2: [R.5.25\*](R.5.25)
+     - 3: [T.3.1\*](T.3.1)
+     - 31: [S.5.1\*](S.5.1)
+     - 32: [R.5.8\*](R.5.8)
+     - 45: [S.3.6\*](S.3.6)
+     - 72: [S.4.5\*](S.4.5)
+     - 83: [P.9.13\*](P.9.13)
+     - 95: [S.5.5\*](S.5.5)
+   - Ep. ad Lucilium: [R.1.17\*](R.1.17)
+   - Epistola ad Lucillum
+     - 77: [H.1.1\*](H.1.1)
+   - Epistola quaedam: [D.11.5\*](D.11.5), [D.11.28\*](D.11.28), [L.2.3\*](L.2.3), [R.5.43\*](R.5.43), [V.6.4\*](V.6.4)
+   - Epistolae: [G.4.13\*](G.4.13), [H.4.5\*](H.4.5), [N.2.1\*](N.2.1), [N.2.1\*](N.2.1)
+     - 7: [G.5.22\*](G.5.22)
+     - 14 (misattribution): [B.2.23](B.2.23)
+     - 16: [D.11.13\*](D.11.13), [D.11.24\*](D.11.24), [N.4.5\*](N.4.5)
+     - 17: [I.6.24\*](I.6.24)
+     - 28: [D.11.6\*](D.11.6), [D.11.7\*](D.11.7)
+     - 29: [I.2.7\*](I.2.7)
+     - 40: [D.11.9\*](D.11.9), [V.7.16\*](V.7.16)
+     - 47: [M.8.13\*](M.8.13), [M.8.13\*](M.8.13), [N.3.1\*](N.3.1)
+     - 50: [O.6.64\*](O.6.64)
+     - 70: [I.5.9\*](I.5.9)
+     - 71: [D.11.34\*](D.11.34), [M.11.77\*](M.11.77)
+     - 74: [E.1.5\*](E.1.5)
+     - 75: [G.5.22\*](G.5.22)
+     - 82: [G.4.7\*](G.4.7)
+     - 87: [O.2.2\*](O.2.2)
+     - extrem.parte, ep.12: [M.11.41\*](M.11.41)
+   - Epistolae ad Lucilium: [M.13.5\*](M.13.5)
+     - 16: [R.5.50\*](R.5.50)
+     - 21: [P.13.22\*](P.13.22)
+     - 49: [R.5.50\*](R.5.50), [R.5.50\*](R.5.50)
+     - 87: [R.5.50\*](R.5.50)
+   - Epistolae ad Lucillum
+     - 75: [M.11.73\*](M.11.73)
+   - Epistulae morales
+     - 6.5: [P.12.18](P.12.18), [P.12.20](P.12.20)
+     - 95.36 (cf.): [A.8.8](A.8.8)
+     - 108.35, 37: [P.12.19](P.12.19)
+     - 108.36: [P.12.17](P.12.17)
+   - Epistulae Morales (ed. Reynolds)
+     - 2 (i.2) §4 (vol. 1 p. 3): [Prol.5](Prol.5)
+     - 55 §5 (vol. 1 p. 146 lines 3-4): [Prol.2](Prol.2)
+     - 64 (vii. 2) §7 (vol. 1 p. 174): [Prol.1](Prol.1)
+     - 79 §17 (vol. 1 p. 260 line 7): [Prol.2](Prol.2)
+     - 84 § 2 (vol.1 p. 285 lines 11-15): [Prol.5](Prol.5)
+     - 84 § 3 (vol. 1 p. 285 lines 15-18): [Prol.5](Prol.5)
+   - Musica
+     - lib.2: [O.6.20\*](O.6.20)
+   - Phaedra
+     - 1.372 (concordance): [A.8.1](A.8.1)
+   - Proverbia: [L.5.10\*](L.5.10)
+   - Rhethorica
+     - li.4: [I.2.1\*](I.2.1)
+   - Rhetorica
+     - 2: [E.7.1](E.7.1)
+     - 2 (not in concordance): [B.2.14\*](B.2.14)
+   - Troades
+     - 1.291 (concordance): [C.16.50](C.16.50)
+ - Seneca (pseudo)
+   - De moribus: [C.16.18\*](C.16.18)
+   - Declamationes: [E.1.4\*](E.1.4)
+     - 4: [C.6.9\*](C.6.9)
+   - Epistola ad Paulum: [D.1.13](D.1.13), [P.12.39](P.12.39)
+     - 7 (ed. Barlow, p.129 12): [C.8.37](C.8.37)
+ - seneca, pseudo
+   - see gregorius i: [A.27.21](A.27.21)
+ - Seneca, pseudo
+   - see Martinus Bracarensis: [A.27.7](A.27.7), [A.27.15](A.27.15), [A.27.34](A.27.34)
+   - see Ps. Augustinus, Ad fratres in eremo: [A.27.34](A.27.34)
+   - see Publilius Syrus: [A.21.23](A.21.23)
+ - Septuagint: [A.13.5\*](A.13.5)
+   - 04=Num.
+     - 4:3: [B.2.29\*](B.2.29)
+ - Sheppey
+   - Sermones (ed. Mifsud)
+     - p.227, ll.57-66: [C.5.7](C.5.7)
+     - p.228, ll.76-89: [C.5.3](C.5.3)
+     - p.229, ll.91-100: [A.20.2](A.20.2)
+     - p.229, ll.104-136: [C.5.4](C.5.4)
+     - p.230, ll.138-150: [C.5.7](C.5.7)
+ - Sidonius
+   - Epistolae
+     - 3.13 (PL 58.505A): [A.15.5](A.15.5)
+ - Socrates
+   - Sententiae: [S.3.11\*](S.3.11)
+ - Solinus: [M.11.43\*](M.11.43)
+   - Collectanea rerum memorabilium
+     - 27.15 (ed. Mommsen p.119 6-8; MF Pietas.s): [C.16.18](C.16.18)
+   - De mirabilibus mundi
+     - c.12: [P.13.48\*](P.13.48)
+   - lib.3 c.35: [M.14.4\*](M.14.4)
+   - lib.10 c.6: [M.4.2](M.4.2)
+ - Statuta provincialia: [F.1.7\*](F.1.7)
+ - Statutum provinciale: [D.8.5\*](D.8.5)
+ - Suetonius
+   - De 12 Caesaribus
+     - lib.2: [F.5.7\*](F.5.7)
+ - Symbolum Athanasii: [D.1.6\*](D.1.6)

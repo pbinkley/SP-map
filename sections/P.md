@@ -1,0 +1,172 @@
+---
+layout: page
+title: "Index: P"
+---
+
+
+ - Papias
+   - Vocabulista (check title)
+     - s.v. Paterfamilias (p.250): [C.16.26](C.16.26)
+ - Passionarius
+   - Historia Nativitatis Christi: [G.2.46\*](G.2.46)
+ - Paulinus Aquileiensis
+   - Exhortatio, sive De salutaribus documentis
+     - c.29 (PL 99.225-226A) (attrib. Augustinus): [C.16.26](C.16.26)
+     - c.30 (PL 99.227A): [A.27.10](A.27.10)
+ - Pelagius I
+   - Epistolae (among Ep. of Hier.)
+     - 1.21 (PL 30.35D): [C.10.8](C.10.8)
+ - Petronius: [I.9.18\*](I.9.18)
+ - Petrus
+   - (in Decretum): [P.12.19\*](P.12.19)
+   - Sermo quidam: [E.3.7\*](E.3.7)
+ - Petrus Alfonsi: [D.12.31\*](D.12.31), [D.12.31\*](D.12.31), [L.3.14\*](L.3.14), [M.11.149\*](M.11.149)
+   - De disciplina clericalis
+     - 1 (ed. Hilka and S”derhjelm, pp.3-4): [A.21.7](A.21.7)
+     - 2 (ed. Hilka and S”derhjelm, pp.5-6): [A.21.11](A.21.11)
+ - Petrus Blesensis: [M.7.10\*](M.7.10)
+   - Epistolae
+     - 94 (PL 207.296A): [A.24.2](A.24.2)
+     - 94 (PL 207.296B): [A.24.3](A.24.3)
+   - Epistolae (ed. Giles)
+     -  8 (vol. 1 p. 21 lines 16-20): [Prol.3](Prol.3)
+ - Petrus Cluniacensis: [E.6.14\*](E.6.14)
+   - Liber (not in Cetedoc): [A.13.25\*](A.13.25)
+ - Petrus Comestor
+   - 04=Num.
+     - 24-25: [B.2.40\*](B.2.40)
+   - Historia numerorum: [B.2.29\*](B.2.29)
+   - Historia Scholastica: [A.27.54\*](A.27.54), [A.27.62\*](A.27.62), [B.2.46\*](B.2.46), [D.6.34\*](D.6.34), [F.5.14\*](F.5.14), [I.11.3\*](I.11.3), [N.3.14\*](N.3.14)
+   - Historia scholastica: [O.6.11\*](O.6.11), [R.4.6\*](R.4.6), [S.11.6\*](S.11.6)
+   - Historia Scholastica
+     - 02=Ex. - circa prin.: [C.2.14\*](C.2.14)
+     - 04=Num. 25: [B.2.11\*](B.2.11)
+   - Historia scholastica
+     - 05=Deut. 17: [R.4.1\*](R.4.1)
+   - Historia Scholastica
+     - 06=Ios. 23: [P.4.26\*](P.4.26)
+     - 09=1 Reg. 19: [C.13.5\*](C.13.5)
+   - Historia scholastica
+     - 11=3 Reg.: [R.4.13\*](R.4.13)
+   - Historia Scholastica
+     - 11=3 Reg. 22: [F.3.28\*](F.3.28)
+     - 32=Dan.: [F.5.15\*](F.5.15)
+   - Historia scholastica
+     - 51=Act.: [M.8.27\*](M.8.27)
+   - Historia Scholastica
+     - Dan. 4 (PL 198.1452C): [A.4.7](A.4.7)
+     - Dan. 7: [D.12.28\*](D.12.28)
+     - Iud. 20:19 -check: [B.2.53\*](B.2.53)
+     - Num. 22-23: [C.11.33\*](C.11.33)
+     - Super Genesim: [C.16.38\*](C.16.38)
+ - Petrus Damiani: [P.13.51\*](P.13.51)
+ - Petrus Damianus: [E.3.13\*](E.3.13), [N.4.6\*](N.4.6)
+   - not in Cetedoc; recheck PL CD-Rom, looking for Metensis and comes: [A.12.8\*](A.12.8)
+ - Petrus Lombardus
+   - Comm. in Psalmos
+     - 30:19 (PL 191.310B) (attrib. Alcuinus; Bromyard attrib. Augustinus) (cf.): [A.6.1](A.6.1)
+   - Liber sententiarum
+     - d.47: [I.11.5\*](I.11.5)
+   - Sententiae
+     - 2.9.1\*: [A.22.3](A.22.3), [A.22.4](A.22.4)
+     - 2.9.2\*: [A.22.4](A.22.4)
+     - 2.11.1.1\*: [A.22.5](A.22.5)
+     - 4, dist. 48 - check book: [C.17.10\*](C.17.10)
+   - Sententiarum libri
+     - 3.26: [S.12.2\*](S.12.2)
+   - Super secundum sententiarum
+     - d.39 - check book: [C.7.15\*](C.7.15)
+ - Petrus Ravennas: [C.1.14\*](C.1.14), [I.6.19\*](I.6.19)
+   - Epistola quaedam: [I.9.16\*](I.9.16), [R.4.7](R.4.7), [T.5.39](T.5.39)
+   - Sermo 67 super Mt.6: [D.10.1\*](D.10.1)
+   - Sermo quidam: [D.7.1\*](D.7.1), [D.7.2\*](D.7.2), [F.5.20\*](F.5.20), [S.4.15\*](S.4.15)
+ - Petrus Venerabilis
+   - De miraculis libri duo
+     - 1.6 (CCCM v.83 pp.16-21): [A.12.37](A.12.37)
+ - Philosophi: [A.27.67\*](A.27.67)
+ - Philosophus: [V.1.12\*](V.1.12)
+ - Philosophus quidam: [A.27.43\*](A.27.43), [L.5.27\*](L.5.27), [N.3.2\*](N.3.2), [P.4.12\*](P.4.12)
+ - Pius papa
+   - (in Decretum): [I.12.20\*](I.12.20)
+ - Plinius
+   - Historia naturalis
+     - 8.48: [B.3.3](B.3.3)
+     - li.4: [I.6.7\*](I.6.7)
+   - lib.8: [P.4.20\*](P.4.20)
+   - lib.11: [T.5.42](T.5.42)
+ - Plinius iunior
+   - Ep.
+     - 4.9: [P.12.22](P.12.22)
+ - Poeta: [R.5.57\*](R.5.57)
+ - Possidius
+   - Vita sancti Augustini
+     - c.15 (PL 32.237-8): [P.12.30](P.12.30)
+ - Prosper
+   - De viciis et virtutibus
+     - 3: [I.6.24\*](I.6.24)
+   - De vita contemplativa: [R.5.5\*](R.5.5)
+     - c.10 (in Decretum): [P.13.13\*](P.13.13), [P.13.14\*](P.13.14)
+   - (in Decretum): [P.3.38\*](P.3.38)
+ - Prosper Aquitanus (ps. Augustinus)
+   - Liber sententiarum
+     - c.189 l.3 (CETEDOC): [A.18.6](A.18.6)
+ - Proverb: [I.9.21\*](I.9.21)
+   - antiquum peccatum nova confusio: [P.5.19\*](P.5.19)
+   - French
+     - amer et hayer troi coraument font faire maynt fauz iuggement: [V.8.36](V.8.36)
+     - au seneschal de la mesoun pust [hom \La @om. \L] conustre le seignur: [C.16.28\*](C.16.28)
+     - ceo qi de diable vent a diable vat: [A.12.36\*](A.12.36)
+     - grange vuyde venteuse: [L.5.15\*](L.5.15)
+     - la pire roe de la charecte fait plus de noyse. et graunge voyde ventouse: [B.2.5\*](B.2.5)
+     - les etiwons(?) de biez. et gauns de leuure: [A.12.42\*](A.12.42)
+     - ly roys ad sa tere bien ferme qi de ces gentz est ame: [B.2.56\*](B.2.56)
+     - ne tro hut pur le scouuele ne tro basse pur le chat: [A.25.21\*](A.25.21)
+     - non est ni rendre ou pendre: [A.12.37\*](A.12.37)
+     - On ne doit auoir pitie de luy ui ne la dal tuy (E7): [P.10.5\*](P.10.5)
+     - pur vn pint perdit le picard son oil. e gaberd sa anes.: [A.12.13\*](A.12.13)
+     - pur vn poynt perdit le picare son oyl et cabere sa nees: [C.6.12\*](C.6.12)
+     - qi boyt si paie: [A.12.24\*](A.12.24)
+     - qi met son queor de tost en dieu yl ad son queor et si ad dieu. et qi le me aillurs que en dieu. yl perd dieu et si perd son queor: [C.14.25\*](C.14.25)
+     - qi monte plustost ou plus haut qil ne doit yl cherra plus tost e descendra plus basse qil ne vodroit: [A.25.21\*](A.25.21)
+     - qi plus auera a plus grant doleur morra: [A.27.47\*](A.27.47)
+     - que Roy nad mestre de chastel ne forteresce que est done de grant largesce: [B.2.56\*](B.2.56)
+     - qui uult a tort prendre a bon droit doit pendre: [A.12.37\*](A.12.37)
+     - ue chose que tu ferras pensez a que fien tu venras: [C.10.13\*](C.10.13)
+     - yl nest pas syres de son pays qi de orogentz est hays: [B.2.56\*](B.2.56)
+   - Gallice
+     - Qui habet argentum non habet amicum.: [A.12.32\*](A.12.32)
+   - Gallicum
+     - Cor non desiderat quod oculus non videt: [A.13.14\*](A.13.14)
+   - Hassell
+     - M176: [A.25.21](A.25.21)
+   - Latin
+     - bonitas aliam requirit: [B.4.2\*](B.4.2)
+     - bonitas una aliam requirat: [A.13.15\*](A.13.15)
+     - delinquens secundum delicti conditionem puniatur: [A.13.21\*](A.13.21)
+     - habitus non facit monacum: [C.16.9\*](C.16.9)
+     - ille est diues: quem deus amat: [A.20.16\*](A.20.16)
+     - inter scamna duo etc.: [A.27.14\*](A.27.14)
+     - lingua cautifera (causidica E1) est dampnifera, nisi funibus argenteis circumligetur: [A.14.21\*](A.14.21)
+     - multe manus faciunt opus facile: [C.1.13\*](C.1.13)
+     - pauper et mortuus non habent amicum (apud gallicos): [A.21.2\*](A.21.2)
+     - qui me amat: canem meum amat: [A.20.13\*](A.20.13)
+     - Si quis ditari cupiat, uel carus haberi (WP 28999): [A.15.14](A.15.14)
+     - siquis in clientelam hominis felicis ac potentis peruenerit. aut ueritas aut amicicia perdenda est: [C.11.10\*](C.11.10)
+     - superbia occasum habet: [A.25.21\*](A.25.21)
+     - vt sint cum lepore et leporario: [B.2.52\*](B.2.52)
+   - non est equus ita audax sicut cecus: [P.5.10\*](P.5.10)
+ - Proverbium
+   - Latin
+     - bonum forum trahit denarium de loculo: [E.3.19\*](E.3.19)
+     - de parte leporarii et leporis: [A.15.32\*](A.15.32)
+   - semel recalcitrando bis pungitur: [P.1.7\*](P.1.7)
+   - tediosum est magnam habere prolem et modicum panem: [M.4.4\*](M.4.4)
+ - Ptolomaeus
+   - Almagest
+     - prol.: [M.13.20\*](M.13.20)
+   - Almagestum
+     - prin.: [H.6.18\*](H.6.18)
+ - Ptolomaeus philosophus: [R.4.11\*](R.4.11)
+ - Publilius Syrus
+   - Proverbia
+     - 10: [A.21.23](A.21.23)

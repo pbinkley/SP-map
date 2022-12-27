@@ -1,0 +1,148 @@
+---
+layout: page
+title: "Index: T"
+---
+
+
+ - Talmud: [O.6.76\*](O.6.76)
+ - Tancredus: [R.6.11\*](R.6.11)
+ - Terentius
+   - Andria
+     - 67-68: [C.11.10](C.11.10)
+ - Tertulianus: [O.7.17\*](O.7.17)
+ - Themistides: [L.6.8\*](L.6.8)
+ - Thomas Aquinas: [V.8.45\*](V.8.45)
+   - Catena Aurea
+     - Mt. 28:4 (ed. Guarienti, p.423): [A.25.4](A.25.4)
+   - Commentum in libros sententiarum
+     - 2.10.4.ex. (v.8 p.139): [A.22.5](A.22.5)
+     - 4.15.2.3 quaestiuncula 2 (v.10 p.393): [C.1.3](C.1.3)
+   - De Christo
+     - q.55 art.3 R.1 (try Summa Theol.): [A.25.4\*](A.25.4)
+   - Epistola ad ducissam Lothoringiae: [M.8.36\*](M.8.36)
+   - Epistola ad ducissam Lotoringie: [V.12.27\*](V.12.27)
+   - in quadam questione de quolibet: [O.6.15\*](O.6.15)
+   - In scripto: [P.7.5\*](P.7.5)
+   - Quaestio de quolibet: [L.7.14\*](L.7.14)
+   - Questio quedam de quolibet: [I.12.12\*](I.12.12)
+   - Scriptum super Sententiarum libros
+     - 4 d.25: [S.9.1\*](S.9.1)
+   - Summa contra gentiles
+     - 3.57: [V.4.16\*](V.4.16)
+   - Summa Theologiae
+     - 1a 2e, q.3, art. 3: [G.3.11\*](G.3.11)
+     - 1a 2e, q.25, art.2: [D.9.25\*](D.9.25)
+   - Summa theologiae
+     - 1a 2e q.58 art.2-3: [R.4.6\*](R.4.6)
+     - 1a 2e q.100 art.5: [P.5.25\*](P.5.25)
+   - Summa Theologiae
+     - 1a 2e, q.110, art.3, resp.2: [G.3.11\*](G.3.11)
+     - 1a 2e, q.112, art.3: [G.3.22\*](G.3.22)
+   - Summa theologiae
+     - 1a 2e q.117 art.1: [R.4.7\*](R.4.7)
+     - 1a q.19 art.6: [V.10.5\*](V.10.5)
+     - 1a q.29 art.12: [V.10.7\*](V.10.7)
+     - 1a q.43 art.7: [S.13.19\*](S.13.19)
+     - 1a q.69 art.1 cum seqq.: [V.8.20\*](V.8.20)
+   - Summa Theologiae
+     - 1a, q.71, art.2: [H.1.2\*](H.1.2)
+   - Summa theologiae
+     - 2a 2ae, q.120, art.1: [O.1.13\*](O.1.13)
+     - 2a 2ae, q.120, art.2: [O.1.13\*](O.1.13)
+   - Summa Theologiae
+     - 2a 2e, De religiosis, Utrum votum religionis potius sit quam Terrae Sanctae: [L.7.15\*](L.7.15)
+     - 2a 2e, q.32, art.3: [E.3.1\*](E.3.1)
+     - 2a 2e, q.32, art.5: [E.3.4\*](E.3.4)
+   - Summa theologiae
+     - 2a 2e q.33 art.2: [C.16.2](C.16.2)
+     - 2a 2e q.33 art.3: [A.21.22](A.21.22)
+     - 2a 2e q.35 art.1 resp.: [A.8.2](A.8.2)
+     - 2a 2e q.35 art.4: [A.8.3](A.8.3)
+   - Summa Theologiae
+     - 2a 2e, q.36, art.1: [I.6.1\*](I.6.1)
+   - Summa theologiae
+     - 2a 2e q.40 art.1 resp.: [B.2.36](B.2.36)
+   - Summa Theologiae
+     - 2a 2e, q.54, art.3: [N.2.2\*](N.2.2)
+   - Summa theologiae
+     - 2a 2e q.62 art.2, 4: [R.5.7\*](R.5.7)
+     - 2a 2e q.62 art.7: [R.6.4\*](R.6.4)
+     - 2a 2e q.66 art.9: [R.1.23\*](R.1.23)
+   - Summa Theologiae
+     - 2a 2e, q.73: [D.6.2\*](D.6.2)
+     - 2a 2e, q.73, art.4: [D.6.33\*](D.6.33)
+   - Summa theologiae
+     - 2a 2e, q.77, art.1: [M.6.14\*](M.6.14)
+   - Summa Theologiae
+     - 2a 2e, q.84, art.8: [D.5.8\*](D.5.8)
+     - 2a 2e, q.88, art.1: [D.3.1\*](D.3.1)
+   - Summa theologiae
+     - 2a 2e q.88 art.2: [V.11.11\*](V.11.11), [V.11.12\*](V.11.12)
+     - 2a 2e q.88 art.2 ar.6: [V.12.6\*](V.12.6)
+     - 2a 2e q.88 art.6: [V.11.4\*](V.11.4)
+     - 2a 2e q.95 art.2: [S.11.3\*](S.11.3)
+   - Summa Theologiae
+     - 2a 2e, q.99, art.3: [I.12.1\*](I.12.1)
+   - Summa theologiae
+     - 2a 2e q.115 art.1 resp.: [A.15.1](A.15.1)
+     - 2a 2e q.115 art.2: [A.15.16](A.15.16)
+     - 2a 2e q.118 art.1: [A.27.1](A.27.1)
+     - 2a 2e q.118 art.8: [A.27.3](A.27.3)
+   - Summa Theologiae
+     - 2a 2e, q.140, art.1, 2 & 3 in resp. principali: [I.4.7\*](I.4.7)
+     - 2a 2e, q.144, art.3: [E.5.2\*](E.5.2)
+   - Summa theologiae
+     - 2a 2e q.146 art.2: [A.4.2](A.4.2)
+     - 2a 2e q.154: [P.5.31\*](P.5.31)
+     - 2a 2e q.154 art.2: [P.5.25\*](P.5.25)
+     - 2a 2e q.154 art.4: [C.10.3](C.10.3)
+   - Summa Theologiae
+     - 2a 2e, q.185, art.7: [O.6.15\*](O.6.15)
+   - Summa theologiae
+     - 3a De Christo: [Q.1.8\*](Q.1.8)
+     - 3a De Christo a.39 art.6: [S.13.19\*](S.13.19)
+     - 3a (De Christo) q.46 art.6: [P.2.7\*](P.2.7)
+   - Summa Theologiae
+     - 3a pars, De Christo, q.37 art.2: [M.3.10\*](M.3.10)
+     - 3a pars, De Christo, q.37 art.6: [M.3.10\*](M.3.10)
+   - Summa theologiae
+     - q.70 art.1: [T.2.3\*](T.2.3)
+     - q.95 art.2: [S.11.4\*](S.11.4)
+     - q.95 art.6: [S.11.7\*](S.11.7)
+   - Summa Theologiae
+     - q.100 art.4: [S.9.1\*](S.9.1)
+   - Summa theologiae
+     - ult.pars, q.82 art.10: [M.10.10\*](M.10.10)
+   - Summa Theologica
+     - 1a 2e q.11 art.2: [E.2.2\*](E.2.2)
+   - Super Sententiarum libros
+     - 2 d.15: [V.8.20\*](V.8.20)
+   - Super sententias
+     - li.4 d.47: [I.11.2\*](I.11.2)
+   - Super Sententias
+     - lib.4 d.12 q.1 art.3: [M.3.24\*](M.3.24)
+ - Thomas Brinton
+   - Sermones
+     - 12 (p.43) (cf.): [C.6.1](C.6.1)
+     - 34 (p.143) (cf.): [C.6.1](C.6.1)
+     - 50 (p.226) (cf.): [C.6.1](C.6.1)
+     - 52 (p.231) (cf.): [C.6.1](C.6.1)
+     - 103 (p.473) (cf.): [C.6.1](C.6.1)
+ - Thomas Cantimpratensis
+   - Bonum universale de apibus: [M.10.9\*](M.10.9)
+   - De apibus: [D.12.37\*](D.12.37)
+   - Liber de apibus: [C.9.6\*](C.9.6), [E.6.13\*](E.6.13), [F.5.12\*](F.5.12), [L.5.21\*](L.5.21), [M.11.29\*](M.11.29), [M.11.97\*](M.11.97), [P.14.6\*](P.14.6), [T.5.33\*](T.5.33)
+     - 2.6 (ed. Douai, 1605, pp.145-6) : [C.17.15](C.17.15)
+     - 2.14 (ed. Douai, 1605, pp.208-209): [A.3.19](A.3.19)
+     - 2.26 (ed. Douai, 1605, p.259): [A.12.4](A.12.4)
+     - 2.53 (ed. Douai, 1605, p.510-12): [B.2.42](B.2.42)
+ - Thomas Hibernensis
+   - Manipulus florum
+     - Philosophia.y: [P.12.18](P.12.18)
+ - Titus Livius
+   - Ab urbe condito
+     - 5.47.4 (cf.): [A.26.23](A.26.23)
+ - Trogus Pompeius: [M.11.43\*](M.11.43)
+   - lib.18: [E.7.19\*](E.7.19)
+ - Trogus Pomponius
+   - lib.3: [L.3.8\*](L.3.8)

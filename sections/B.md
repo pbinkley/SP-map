@@ -1,0 +1,184 @@
+---
+layout: page
+title: "Index: B"
+---
+
+
+ - Barlaam
+   - actually Alfonsus: [A.21.7\*](A.21.7)
+ - Barlaam et Iosaphat: [R.5.11\*](R.5.11)
+   - 16 (PL 73.503D-5D): [B.1.3](B.1.3)
+   - 18 (PL 73.512B): [A.13.6](A.13.6)
+ - Basilius
+   - Hexameron: [D.1.5\*](D.1.5)
+   - Homiliae
+     - 1: [E.3.46\*](E.3.46)
+ - Beda: [D.9.4\*](D.9.4), [D.9.17\*](D.9.17)
+   - De gestis Anglorum: [D.2.6\*](D.2.6), [P.7.37\*](P.7.37), [P.8.26\*](P.8.26), [R.5.66\*](R.5.66)
+     - 3.6: [P.13.27\*](P.13.27)
+     - c.9: [E.3.36\*](E.3.36)
+   - De gestis anglorum
+     - lib.3: [E.8.24\*](E.8.24)
+   - Historia ecclesiastica
+     - 5.14: [A.26.37](A.26.37)
+   - In 2 Petri
+     - (in Decretum): [P.13.60\*](P.13.60)
+   - (in Decretum): [S.4.13\*](S.4.13), [S.8.9\*](S.8.9)
+   - (in Glossa): [R.5.6\*](R.5.6)
+   - Misattribution: cf. Glossa ordinaria, Iac. 1:2: [A.1.7](A.1.7)
+   - Omelia de publicano et phariseo: [S.6.1\*](S.6.1)
+   - Super epistolam Iohannis
+     - (in Decretum): [S.10.11\*](S.10.11)
+   - Super Mattheum
+     - 5: Qui viderit mulierem: [L.7.1\*](L.7.1)
+ - Benedictus
+   - Regula: [O.1.9\*](O.1.9), [R.5.48\*](R.5.48)
+ - Bernardus
+   - error in L: [A.19.6\*](A.19.6)
+ - Bernardus Clarevallensis: [D.1.9\*](D.1.9), [D.6.16\*](D.6.16), [E.6.8\*](E.6.8), [F.4.36\*](F.4.36), [G.5.13\*](G.5.13), [G.5.19\*](G.5.19), [H.4.14\*](H.4.14), [H.6.15\*](H.6.15), [I.7.4\*](I.7.4), [I.7.5\*](I.7.5), [I.7.11\*](I.7.11), [I.10.22\*](I.10.22), [I.11.13\*](I.11.13), [L.6.1\*](L.6.1), [M.3.16\*](M.3.16), [M.11.50\*](M.11.50), [M.11.91\*](M.11.91), [M.11.133\*](M.11.133), [M.12.8\*](M.12.8), [M.13.17\*](M.13.17), [N.2.1\*](N.2.1), [N.3.2\*](N.3.2), [O.1.8\*](O.1.8), [O.6.28\*](O.6.28), [P.2.42\*](P.2.42), [P.3.1\*](P.3.1), [P.3.15\*](P.3.15), [P.7.8\*](P.7.8), [P.7.19\*](P.7.19), [P.7.54\*](P.7.54), [P.9.14\*](P.9.14), [P.13.10\*](P.13.10), [P.13.28\*](P.13.28), [P.13.45\*](P.13.45), [P.13.53\*](P.13.53), [P.14.2\*](P.14.2), [R.5.7\*](R.5.7), [R.5.39\*](R.5.39), [S.4.14\*](S.4.14), [S.4.17\*](S.4.17), [S.5.6\*](S.5.6), [S.8.3\*](S.8.3), [S.8.18\*](S.8.18), [S.12.1\*](S.12.1), [S.14.18\*](S.14.18), [T.1.5\*](T.1.5), [V.4.5\*](V.4.5), [V.9.12\*](V.9.12)
+   - Apologia: [G.5.16\*](G.5.16), [R.5.62\*](R.5.62)
+     - (MF Gula.s): [G.5.17\*](G.5.17)
+   - Apologia ad Guillelmum abbatem
+     - 8 (v.3 p.88 l.9-16): [C.1.12](C.1.12)
+   - De consideratione: [N.3.7\*](N.3.7)
+     - 1.3: [C.8.4](C.8.4)
+     - 1.5 (v.3 p.399 l.3) (CETEDOC) (check end of quotation): [A.14.41\*](A.14.41)
+     - 2.7 (PL 182.182): [P.12.15](P.12.15)
+     - 2.7 (PL 182.750): [P.12.18](P.12.18)
+     - 2.11: [O.6.64\*](O.6.64)
+     - 3.2.7-8 (v.3 p.436 l.5-p.437 l.1): [A.14.16](A.14.16)
+     - 3.2.10 (PL ?.763C): [A.14.16](A.14.16)
+     - 3.3: [P.13.17\*](P.13.17)
+     - 3.4: [A.14.16\*](A.14.16)
+     - 3.6: [A.14.16\*](A.14.16)
+     - 3.ult.: [O.6.71\*](O.6.71), [O.6.74\*](O.6.74), [O.6.78\*](O.6.78), [P.13.17\*](P.13.17)
+     - 4: [M.8.10\*](M.8.10)
+     - 4.5: [H.4.12\*](H.4.12)
+     - 4.5.13 (cited as 4.11) (Op. omn., v.3, p.459): [I.9.14](I.9.14)
+     - 4.5.14 (cited as 4.11) (Op. omn., v.3, p.459): [I.9.14](I.9.14)
+     - 4.12: [P.3.32\*](P.3.32)
+     - 4.12 (v.3 p.457 l.18-p.458 l.10): [C.16.23](C.16.23)
+     - 4.15: [P.13.19\*](P.13.19)
+     - 4.20 (v.3 p.464 l.4) (attrib. to Bernardus, Super cantica): [A.23.24](A.23.24)
+     - 4.21 (v.3 p.464 l.16-21): [C.16.25](C.16.25)
+     - 4.21 (v.3 p.464 l.25-26): [C.16.23](C.16.23)
+     - 5.30 (v.3 p.492 l.21-22): [A.20.16](A.20.16)
+     - praef. (v.3 p.393 l.14-15): [A.15.9](A.15.9)
+   - De libero arbitrio: [H.1.5\*](H.1.5)
+   - De precepto et dipositione: [S.3.8\*](S.3.8)
+   - De precepto et dispensatione: [I.4.8\*](I.4.8)
+   - Ep.
+     - 2: [S.1.7\*](S.1.7), [S.1.9\*](S.1.9)
+   - Epistola ad Cluniacenses: [P.12.32\*](P.12.32)
+   - Epistola ad dominum abbatem: [R.5.51\*](R.5.51)
+   - Epistola ad ducem Aquitaniae: [E.7.4\*](E.7.4), [O.6.19\*](O.6.19)
+   - Epistola ad episcopum Senonensem: [G.2.15\*](G.2.15), [O.6.62\*](O.6.62)
+   - Epistola quaedam: [O.6.47\*](O.6.47)
+   - Epistulae
+     - 1.13 (v.7 p.11 l.8) (Cetedoc): [C.8.7](C.8.7)
+   - In Apocalypsam: [G.5.5\*](G.5.5)
+   - Libellus quidam contra Cluniacenses qui a nonnullis Apologia vocatur: [P.3.2\*](P.3.2)
+   - Liber ad milites templi
+     - 1 (v.3 p.214 l.16-17): [C.17.5](C.17.5)
+     - 1 (v.3 p.214 l.22-p.215 l.2): [C.17.5](C.17.5)
+   - Meditationes: [R.5.5\*](R.5.5)
+   - misattribution: [A.4.3](A.4.3), [A.12.25](A.12.25), [A.20.2](A.20.2)
+     - cf. Alanus de Insulis: [A.8.1](A.8.1)
+   - misattribution in L: [A.8.9](A.8.9)
+   - misattribution: see Richard of St. Victor, De gradibus caritatis: [C.1.12](C.1.12)
+   - non inveni: [A.13.26](A.13.26)
+   - Sermo de labore messis: [R.5.32\*](R.5.32)
+   - Sermo de trinitate: [T.4.1\*](T.4.1)
+   - Sermo de via vitae: [O.1.8\*](O.1.8), [O.1.11\*](O.1.11)
+   - Sermo quidam: [D.11.28\*](D.11.28), [I.10.10\*](I.10.10), [P.4.8\*](P.4.8), [R.5.17\*](R.5.17), [R.5.59\*](R.5.59), [T.3.4\*](T.3.4)
+   - Sermones
+     - 35: [G.4.10\*](G.4.10)
+     - 38: [I.1.1\*](I.1.1)
+     - 89: [D.10.6\*](D.10.6)
+   - Sermones de diversis
+     - 41 (v.6A p.249 l.8) (CETEDOC): [A.19.5](A.19.5), [C.6.23](C.6.23)
+   - Sermones in festo sancti Michaelis
+     - 1.5 (v.5 p.297 l.10) (CETEDOC): [A.22.10](A.22.10)
+     - 1.5 (v.5 p.297 l.18) (CETEDOC): [A.22.10](A.22.10)
+   - Sermones super Cantica Canticorum
+     - 27.8 (v.1 p.187 l.15-16): [A.23.9](A.23.9)
+     - 66.6 (v.2 p.182 l.12): [A.4.6](A.4.6)
+     - 79.1 (v.1 p.272 l.22) (Cetedoc): [A.20.9](A.20.9)
+     - 83.4 (v.2 p.300 l.26-28): [A.20.11](A.20.11)
+   - Sermones super psalmum 'Qui habitat'
+     - 12.6 (v.4 p.460 l.13) (CETEDOC): [A.22.14](A.22.14)
+     - 12.6 (v.4 p.460 l.16) (CETEDOC): [A.22.14](A.22.14)
+     - 12.7 (v.4 p.461 l.3-23) (CETEDOC): [A.22.13](A.22.13)
+     - 12.8 (v.4 p.462 l.14) (CETEDOC): [A.22.14](A.22.14)
+     - 14.1 (v.4 p.468 l.23) (cf.) (CETEDOC): [A.23.10](A.23.10)
+   - Super Cantica: [D.7.2\*](D.7.2), [P.4.6\*](P.4.6), [P.4.7\*](P.4.7)
+     - misattribution: De cons.: [A.23.24](A.23.24)
+     - ser.24: [D.6.22\*](D.6.22)
+     - ser.33: [O.6.58\*](O.6.58), [O.6.68\*](O.6.68)
+     - ser.34: [O.6.61\*](O.6.61)
+     - ser.40: [I.10.20\*](I.10.20)
+     - ser.78: [O.6.58\*](O.6.58)
+   - Super Cantica Canticorum: [S.4.1\*](S.4.1), [S.4.6\*](S.4.6)
+   - Super Marcum
+     - 10: [D.11.30\*](D.11.30)
+   - Super Mattheum
+     - 23:24: non inveni: [C.16.19](C.16.19)
+   - Super Psalmos
+     - Ps.72 In labore hominum non sunt: [O.6.74\*](O.6.74)
+ - Bernardus Clarevallensis (pseudo)
+   - De interiori domo
+     - 34.72 (PL 184.543A): [C.14.24](C.14.24)
+   - Meditationes: [M.11.145\*](M.11.145)
+   - Meditationes de humana conditione
+     - 12.34 (PL 184.504B): [A.22.19](A.22.19)
+   - Meditationes piissimae de cognitione humanae conditionis
+     - 3.8 (PL 184.490B-C) (attrib. to Hugo, De claustro animae): [C.2.12](C.2.12)
+ - Boethius: [S.4.12\*](S.4.12)
+   - Consolatio philosophiae
+     - 3: [P.14.2\*](P.14.2)
+   - De musica
+     - in prin.: [T.5.46\*](T.5.46)
+   - Philosophiae consolatio : [D.12.36\*](D.12.36)
+   - Philosophiae consolatio: [G.1.17\*](G.1.17), [M.9.38\*](M.9.38), [M.13.5\*](M.13.5), [O.6.23\*](O.6.23)
+     - 2 pr.2: [M.9.46\*](M.9.46)
+     - 2 pr.4 l.57 (CETEDOC): [C.11.9](C.11.9)
+     - 3 pr.2 l.48 (Cetedoc) (cf.): [B.1.7](B.1.7)
+     - 5 pr.6 l.154 (Cetedoc): [A.25.17](A.25.17)
+ - Boethius (pseudo)
+   - De disciplina scholarium: [I.2.3\*](I.2.3), [N.2.2\*](N.2.2), [T.4.15\*](T.4.15)
+     - 6 (PL 64.96): [P.12.22](P.12.22)
+     - (PL 64.1235): [P.12.20](P.12.20)
+   - De disciplina scholarium (ed. Weijers)
+     - 2.9: [A.3.19](A.3.19)
+ - Bonifacius VIII papa: [C.16.48\*](C.16.48)
+   - Constitucio quaedam: [P.13.16\*](P.13.16)
+   - Constitutio quedam
+     - Statuimus et districte: [O.6.8\*](O.6.8)
+   - (in Sext): [V.8.34\*](V.8.34)
+ - Brinton
+   - Sermones
+     - 20 (p.80) (cf.): [A.12.20](A.12.20)
+     - 26 (p.103) (cf.): [C.2.9](C.2.9)
+     - 28 (p.111) (cf.): [A.12.20](A.12.20)
+     - 32 (p.130) (cf.): [C.6.3](C.6.3)
+     - 32 (p.132) (cf.): [C.6.25](C.6.25)
+     - 34 (pp.143-4) (cf.): [A.12.24](A.12.24)
+     - 36 (p.155) (cf.): [C.7.10](C.7.10)
+     - 43 (p.193) (cf.): [A.17.7](A.17.7)
+     - 45 (pp.204-5) (cf.): [C.11.39](C.11.39)
+     - 48 (p.216) (cf.): [A.17.7](A.17.7)
+     - 54 (p.246) (cf.): [A.7.19](A.7.19)
+     - 60 (p.273) (cf.): [B.2.41](B.2.41)
+     - 65 (pp.296-7) (cf.): [C.6.58](C.6.58)
+     - 66 (p.303) (cf.): [A.26.37](A.26.37)
+     - 69 (p.319) (cf.): [A.17.7](A.17.7)
+     - 70 (p.325) (cf.): [C.17.18](C.17.18)
+     - 73 (p.337) (cf.): [C.7.10](C.7.10)
+     - 77 (p.350) (cf.): [C.6.3](C.6.3)
+     - 78 (p.357) (cf.): [A.15.29](A.15.29)
+     - 86 (p.394) (cf.): [A.7.19](A.7.19)
+     - 96 (p.443) (cf.): [C.6.3](C.6.3)
+     - 102 (p.470) (cf.): [A.17.7](A.17.7)
+     - 108 (p.498) (cf.): [A.15.29](A.15.29)
+ - Bulgarus
+   - Glossa in Codicem: [F.1.36\*](F.1.36)

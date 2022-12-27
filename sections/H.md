@@ -1,0 +1,187 @@
+---
+layout: page
+title: "Index: H"
+---
+
+
+ - Haymo
+   - 53=1 Cor. 14
+     - (PL 117.591): [P.12.30\*](P.12.30), [P.12.31\*](P.12.31)
+ - Helinandus
+   - Cronicon
+     - 11.38 (in Meindert's transcription): [I.9.15](I.9.15), [O.6.5](O.6.5), [O.6.8](O.6.8)
+ - Hieronymus: [D.6.17\*](D.6.17), [I.11.1\*](I.11.1), [I.12.1\*](I.12.1), [L.5.14\*](L.5.14), [L.7.30\*](L.7.30), [L.7.47\*](L.7.47), [M.3.24\*](M.3.24), [M.11.75\*](M.11.75), [M.11.87\*](M.11.87), [O.5.21\*](O.5.21), [O.7.7\*](O.7.7), [P.3.6\*](P.3.6), [P.3.33\*](P.3.33), [P.7.31\*](P.7.31), [P.7.35\*](P.7.35), [P.13.45\*](P.13.45), [R.5.8\*](R.5.8), [R.5.14\*](R.5.14), [R.5.16\*](R.5.16), [S.4.1\*](S.4.1), [S.4.15\*](S.4.15), [S.4.15\*](S.4.15), [T.5.29\*](T.5.29), [T.5.50\*](T.5.50), [V.1.1\*](V.1.1), [V.3.12\*](V.3.12), [V.11.5\*](V.11.5), [V.12.25\*](V.12.25)
+   - Ad Damasum papam
+     - (in Decretum): [P.13.14\*](P.13.14), [P.13.42\*](P.13.42)
+   - Ad Riparium
+     - (in Decretum): [P.8.3\*](P.8.3), [P.8.7\*](P.8.7)
+   - Ad rusticum de penitentia: [P.7.1\*](P.7.1)
+   - Ad Theodorum: [M.11.71\*](M.11.71)
+   - Breviarium in Psalmos
+     - Ps. 147:14 (PL 26.1334): [V.2.4](V.2.4)
+   - Contra Pelagianos
+     - 1: [F.1.29\*](F.1.29)
+   - Ep.
+     - 33: [R.5.21\*](R.5.21)
+     - 34: [R.5.39\*](R.5.39)
+     - 36.14 (PL 22.458): [P.12.31](P.12.31)
+     - 59: [V.11.5\*](V.11.5)
+     - 72: [R.5.21\*](R.5.21)
+     - 84: [R.5.44\*](R.5.44)
+   - Ep. ad Augustinum: [S.3.7\*](S.3.7)
+   - Epistola ad Aletham: [O.7.2\*](O.7.2)
+   - Epistola ad Demetriadem: [I.13.22\*](I.13.22)
+   - Epistola ad Eustochium virginem
+     - in Decretum: [M.12.7\*](M.12.7)
+   - Epistola ad Furiam: [R.2.7\*](R.2.7)
+   - Epistola ad Heliodorum: [R.5.8\*](R.5.8)
+   - Epistola ad Iovinianum: [G.5.18\*](G.5.18)
+   - Epistola ad Nepotianum: [D.6.12\*](D.6.12), [I.4.14\*](I.4.14)
+   - Epistola ad Pammachium: [I.10.22\*](I.10.22)
+   - Epistola ad Paulinam: [G.5.2\*](G.5.2)
+   - Epistola ad Rusticum: [T.5.47\*](T.5.47)
+   - Epistola ad Tirasium: [M.11.70\*](M.11.70), [M.11.72\*](M.11.72), [M.11.76\*](M.11.76)
+   - Epistola conta Iovinianum: [P.13.7\*](P.13.7)
+   - Epistola contra Iovinianum: [M.4.5\*](M.4.5)
+   - Epistola in Marcellam: [G.2.35\*](G.2.35)
+   - Epistola (misattribution)
+     - (in Manipulus florum, Discordia.f: Ier. super epist. ad Romanos): [C.9.6](C.9.6)
+   - Epistola quadam
+     - non inveni (in Manipulus florum): [A.4.3](A.4.3)
+   - Epistola quaedam: [I.1.10\*](I.1.10), [R.5.8\*](R.5.8), [V.6.1\*](V.6.1)
+     - (in Decretum): [E.2.14\*](E.2.14)
+     - non inveni: [A.27.1](A.27.1)
+   - Epistola quaedam ad monachos: [I.1.6\*](I.1.6), [I.1.9\*](I.1.9)
+   - Epistola quedam: [P.12.39\*](P.12.39)
+ - Hieronymus (?)
+   - Epistolae
+     - 13.5 (PL 30.166B-C) (not in Cetedoc): [C.12.14](C.12.14)
+ - Hieronymus
+   - Epistolae
+     - 34: [O.6.60\*](O.6.60)
+     - 59: [M.14.1\*](M.14.1)
+     - 75: [M.14.4\*](M.14.4)
+   - Epistolae quaedam: [R.5.8\*](R.5.8), [R.5.10\*](R.5.10)
+   - Epistulae
+     - 22 (v.54.6 p.152 l.5) (Cetedoc): [C.10.23](C.10.23)
+     - 54 (v.54.10 p.476 l.14) (Cetedoc): [A.4.6](A.4.6)
+     - 118 (v.55.6 p.444 l.5) (Cetedoc): [A.4.3](A.4.3)
+     - 125.11 (CSEL 56 p.131 ll.3-4): [A.8.6](A.8.6)
+     - 125 (CSEL 56 par.11 p.130 l.6) (Cetedoc): [A.8.9](A.8.9)
+     - 130 (v.56.8 p.188 l.3) (Cetedoc): [C.10.23](C.10.23)
+   - Glossa in Zach.: [O.7.19\*](O.7.19)
+   - In Actibus apostolorum: [V.11.14\*](V.11.14)
+   - in Decretum: [E.3.4\*](E.3.4), [G.5.5\*](G.5.5), [G.5.19\*](G.5.19), [H.5.6\*](H.5.6), [H.5.6\*](H.5.6), [H.5.14\*](H.5.14), [L.7.10\*](L.7.10), [M.3.22\*](M.3.22), [M.10.6\*](M.10.6), [O.2.5\*](O.2.5), [O.5.15\*](O.5.15), [O.6.60\*](O.6.60), [O.7.20\*](O.7.20)
+   - (in Decretum): [P.13.59\*](P.13.59), [S.4.1\*](S.4.1), [X.1.20\*](X.1.20)
+   - In Matthaeum
+     - 18.10 (CCL 77.159): [A.22.5](A.22.5)
+   - Liber tertius aduersus libros Rufini
+     - 39 l.45 (Cetedoc): [C.10.9](C.10.9)
+   - misattribution: [C.14.19](C.14.19)
+   - Principium Ione (in Decreto): [P.7.26](P.7.26)
+   - Principium Naum (in Decreto): [P.7.26](P.7.26)
+   - Prologus in Abdiam: [M.9.14\*](M.9.14)
+   - Prologus in epistolam ad Timotheum: [O.6.80\*](O.6.80)
+   - Prologus in Naum: [O.5.22\*](O.5.22)
+   - Prologus totius sacrae scripturae: [E.7.9\*](E.7.9)
+   - Prologus totius sacre scripture: [L.7.5\*](L.7.5)
+   - Super epistolam ad Ephesios
+     - 1: [S.4.3\*](S.4.3)
+   - Super Exechielem: [D.1.19\*](D.1.19)
+   - Super Hieremiam
+     - (in Decretum): [T.5.8\*](T.5.8)
+   - Super Ieremiam
+     - (in Decretum): [P.13.60\*](P.13.60)
+   - Super Isaiam
+     - 24:9: [D.1.5\*](D.1.5)
+     - (in Decretum): [S.4.17\*](S.4.17)
+     - Is. 3: [S.3.5\*](S.3.5)
+   - Super Leviticum
+     - in Decretum: [M.1.2\*](M.1.2)
+     - (in Decretum): [P.13.1\*](P.13.1)
+   - Super Matthaeum
+     - 5: [D.10.5\*](D.10.5)
+     - Mt.16 Quid prodest homini...: [V.4.13\*](V.4.13)
+   - Super Michaeam
+     - (in Decretum): [P.12.18\*](P.12.18)
+   - Super Mt. 17: [M.12.15\*](M.12.15)
+   - Super Osee: [D.6.13\*](D.6.13), [S.3.11\*](S.3.11)
+   - Tractatus lix in psalmos
+     - 82 l.33 (Cetedoc): [C.9.1](C.9.1)
+ - Hildebert Cenomanensis
+   - Sermones de diversis
+     - 139 (PL 171.943A) (cf.) (attrib. Gregorius): [C.12.11](C.12.11)
+ - Historia Antiochena: [B.2.41\*](B.2.41), [B.2.50\*](B.2.50), [C.17.6\*](C.17.6), [C.17.32\*](C.17.32)
+ - Historia antiquorum: [G.5.4\*](G.5.4)
+ - Historia de Barlaam: [Q.1.3\*](Q.1.3)
+ - Historia ecclesiastica
+   - 7: [T.1.12\*](T.1.12)
+   - lib.6 c.9: [T.2.5\*](T.2.5)
+   - lib.7: [F.5.19\*](F.5.19), [H.5.1\*](H.5.1)
+ - Historia Gallicorum
+   - Clovis: [B.2.43\*](B.2.43)
+   - Guido k. of Jerusalem: [B.2.50\*](B.2.50)
+ - Historia septem sapientum
+   - pp.42-46 (ed. Buchner): [A.27.59](A.27.59)
+ - Historia tripartita
+   - 1: [R.4.6\*](R.4.6)
+   - 1.4.7-8 (CSEL 71,p.17): [C.17.6](C.17.6)
+   - 1.7: [D.12.5\*](D.12.5)
+   - 1.11.32-33 (CSEL 71, pp. 41-42): [A.12.18](A.12.18)
+   - 6.1.16-19 (CSEL 71, p.308): [C.17.21](C.17.21)
+   - 9.30.3-22 (CSEL 71, pp. 541-544): [C.16.3](C.16.3)
+   - li.9: [L.5.29\*](L.5.29)
+ - Historiae Romanorum: [E.5.1\*](E.5.1), [M.8.10\*](M.8.10), [M.11.94\*](M.11.94), [M.14.3\*](M.14.3)
+   - Theodosius: [C.17.18\*](C.17.18), [C.17.18\*](C.17.18)
+ - Historie
+   - Sultan of Persia: [B.2.18\*](B.2.18)
+ - Horatius
+   - Liber carminum
+     - 3.16.17-18: [A.27.6](A.27.6)
+   - Liber epistolarum: [R.2.8\*](R.2.8)
+     - 1.18 86-87 (from VdeB, De morali...): [C.11.9](C.11.9)
+ - Hormisdas papa
+   - (in Decretum): [P.13.60\*](P.13.60)
+ - Hostiensis: [E.4.1\*](E.4.1), [F.3.1\*](F.3.1), [H.2.13\*](H.2.13), [L.6.2\*](L.6.2), [M.6.13\*](M.6.13), [M.14.18\*](M.14.18), [R.6.5\*](R.6.5), [R.6.11\*](R.6.11), [S.9.1\*](S.9.1), [T.2.3\*](T.2.3)
+   - 4.4 De cler. non resi. in eccl. vel preben. § 1 clericos: [P.13.24\*](P.13.24)
+   - Glossa: [I.3.13\*](I.3.13)
+   - lib.5 rub.4 Ne prelati vices suas: [M.8.22\*](M.8.22)
+   - Summa
+     - lib.5 (fol. 289r-v).: [A.7.8](A.7.8)
+ - Hugo: [I.6.24\*](I.6.24), [M.11.3\*](M.11.3), [S.5.4\*](S.5.4), [S.8.5\*](S.8.5)
+   - De vanitate mundi: [M.13.17\*](M.13.17), [S.4.18\*](S.4.18)
+ - Hugo de Folieto
+   - De claustro animae
+     - 2.11 (PL 176.1058C): [A.6.2](A.6.2)
+     - 2.17 (PL 176.1069C): [A.15.27](A.15.27)
+     - 2.23 (PL 176.1085C): [A.9.3](A.9.3)
+ - Hugo de Sancto Caro
+   - Postilla
+     - 14=2 Par. 1:10: [P.12.9](P.12.9)
+     - 27=Is. 6:6: [P.12.11](P.12.11)
+ - Hugo de Sancto Victore: [E.6.30\*](E.6.30), [G.2.15\*](G.2.15), [I.8.6\*](I.8.6)
+   - Ad quendem nobilem nubere volentem: [M.4.7\*](M.4.7)
+   - De anima
+     - 2.9 (=Ps. Aug., De spiritu et anima, to end of c.50: PL 40.779-816): [C.7.6\*](C.7.6)
+     - 3: [V.7.9\*](V.7.9)
+     - lib.1: [M.11.95\*](M.11.95)
+     - See Ps. Bernardus, De interiori domo: [C.14.24](C.14.24)
+   - De arca Noe morali
+     - 2.4 (PL 176.638A) (cf.): [A.10.1](A.10.1)
+   - De arrha animae
+     - PL 176.955A-C: [A.23.20](A.23.20)
+   - De claustro animae
+     - 2 (misattribution): [A.27.1](A.27.1)
+     - lib.2: [M.11.7\*](M.11.7)
+     - see ps.Bernardus, Meditationes: [C.2.12](C.2.12)
+   - De duodecim abusionibus: [P.13.17\*](P.13.17)
+   - Didascalicon
+     - 5: [D.7.3\*](D.7.3), [S.3.11\*](S.3.11)
+     - PL 176.778A (end of l.3: omne solum patria est): [B.2.19\*](B.2.19)
+   - Libro de sacramentis
+     - pt.11 c.7: [M.4.2\*](M.4.2)
+   - Super Psalmos: [D.6.22\*](D.6.22)
+ - Humbertus: [I.3.19\*](I.3.19)
+ - Humbertus de Romanis
+   - Liber de dono timoris: [M.11.144\*](M.11.144)
+     - Sloane 3102, no.65 (Herbert p.99): [M.11.121](M.11.121)
