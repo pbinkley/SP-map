@@ -28,6 +28,10 @@ url: "https://pbinkley.github.io" # the base hostname & protocol for your site, 
 mastodon_username: "@pbinkley@code4lib.social"
 github_username:  pbinkley
 
+header_pages:
+  - chapter-manifests/index.md
+  - sections/index.md
+
 # Build settings
 theme: minima
 plugins:
