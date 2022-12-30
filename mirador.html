@@ -19,6 +19,13 @@
        theme: {
          transitions: window.location.port === '4488' ?  { create: () => 'none' } : {},
        },
+       window: {
+         panels: {
+           search: false,
+         },
+         sideBarPanel: 'annotations',
+         highlightAllAnnotations: true,
+       },
        windows: [{
          manifestId: manifest,
          thumbnailNavigation: 'off',
