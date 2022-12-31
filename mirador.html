@@ -33,10 +33,19 @@
          highlightAllAnnotations: true,
        },
        windows: [{
+        id: 'known-window-id',
          manifestId: manifest,
          thumbnailNavigation: 'off',
        }],
      });
+
+      // We create the action first. Note we are using a specified `windowId` here. This could be accessed from the store instead of specifying upfront.
+//var action = Mirador.actions.setCanvas('known-window-id', 'https://permalinkbnd.bnportugal.gov.pt/iiif/69702/canvas/83')
+// Now we can dispatch it.
+//miradorInstance.store.dispatch(action);
+
+miradorInstance.store.dispatch(actions.addWindow());
+
     </script>
   </body>
 </html>
