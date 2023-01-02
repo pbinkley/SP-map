@@ -12,8 +12,8 @@
     <script>document.write("<script type='text/javascript' src='https://mirador-dev.netlify.app/dist/mirador.min.js?v=" + Date.now() + "'><\/script>");</script>
     <script type="text/javascript">
       var searchParams = new URLSearchParams(location.search);
-      var manifest = searchParams.get('manifest');
-
+      var manifest = "manifests/" + searchParams.get('c') + ".json";
+      console.log(manifest);
       var miradorInstance = Mirador.viewer({
         id: 'mirador',
         theme: {
@@ -44,7 +44,7 @@
 // Now we can dispatch it.
 //miradorInstance.store.dispatch(action);
 
-miradorInstance.store.dispatch(actions.addWindow());
+// miradorInstance.store.dispatch(actions.addWindow());
 
     </script>
   </body>

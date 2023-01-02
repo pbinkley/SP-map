@@ -4,68 +4,68 @@ title: "Index: L"
 ---
 
 
- - Law: [B.1.10\*](B.1.10)
+ - Law: [B.1.10\*](../mirador.html?c=B.1&p=10)
  - Legal maxim
-   - in dubiis certior pars est tenenda: [A.14.36\*](A.14.36)
-   - periculum sit clientis (cf. A.14.33): [A.12.39\*](A.12.39)
+   - in dubiis certior pars est tenenda: [A.14.36\*](../mirador.html?c=A.14&p=36)
+   - periculum sit clientis (cf. A.14.33): [A.12.39\*](../mirador.html?c=A.12&p=39)
  - Legal phrase
-   - caput torquere: [A.12.39\*](A.12.39)
+   - caput torquere: [A.12.39\*](../mirador.html?c=A.12&p=39)
  - Legal term
-   - causa contractui: [A.14.14\*](A.14.14)
+   - causa contractui: [A.14.14\*](../mirador.html?c=A.14&p=14)
  - Legal terminology
-   - dolus dat causam contractui, vel incidit in ipsum contractum: [A.14.14\*](A.14.14)
+   - dolus dat causam contractui, vel incidit in ipsum contractum: [A.14.14\*](../mirador.html?c=A.14&p=14)
  - Legenda aurea
    - C.4 (De sancta Lucia virgine)
-     - §1 (p.30) (cf.): [P.7.53](P.7.53)
+     - §1 (p.30) (cf.): [P.7.53](../mirador.html?c=P.7&p=53)
    - C.11 (De sancto Thoma Cantuariensi)
-     - §6 (p.69) (cf.): [I.3.11](I.3.11)
+     - §6 (p.69) (cf.): [I.3.11](../mirador.html?c=I.3&p=11)
    - C.12 (De sancto Silvestro)
-     - §3 (p.73) (cf.): [I.9.13](I.9.13)
+     - §3 (p.73) (cf.): [I.9.13](../mirador.html?c=I.9&p=13)
    - C.57 (De sancto Ambrosio)
-     - §5 (pp.253-4) (cf.): [B.4.10](B.4.10)
-     - §8 (p.258) (cf.): [A.15.29](A.15.29)
+     - §5 (pp.253-4) (cf.): [B.4.10](../mirador.html?c=B.4&p=10)
+     - §8 (p.258) (cf.): [A.15.29](../mirador.html?c=A.15&p=29)
  - Legenda Aurea 
-   - p.607 (sec. Herbert) \*: [C.17.31\*](C.17.31)
+   - p.607 (sec. Herbert) \*: [C.17.31\*](../mirador.html?c=C.17&p=31)
  - Legenda aurea
    - Suppl.C.204 (De sancto Gangolfo)
-     - p.903 (cf.): [A.17.9](A.17.9)
+     - p.903 (cf.): [A.17.9](../mirador.html?c=A.17&p=9)
  - Legenda sanctorum
-   - Annunciatio BVM: [M.3.12\*](M.3.12)
-   - Assumptio BVM: [M.3.11\*](M.3.11)
-   - Dominicus sanctus: [M.9.29\*](M.9.29)
-   - Nativitas BVM: [M.3.4\*](M.3.4)
+   - Annunciatio BVM: [M.3.12\*](../mirador.html?c=M.3&p=12)
+   - Assumptio BVM: [M.3.11\*](../mirador.html?c=M.3&p=11)
+   - Dominicus sanctus: [M.9.29\*](../mirador.html?c=M.9&p=29)
+   - Nativitas BVM: [M.3.4\*](../mirador.html?c=M.3&p=4)
  - Leo I
    - Sermones
-     - 42.2 (PL 54.277A): [M.9.4](M.9.4)
- - Leo papa: [I.4.8\*](I.4.8)
-   - (in Decretum): [P.13.2\*](P.13.2)
- - Lex Machometi: [P.2.1\*](P.2.1)
- - Liber Barlaam: [H.1.22\*](H.1.22), [H.4.11\*](H.4.11), [M.11.78\*](M.11.78), [T.1.21\*](T.1.21), [T.3.5\*](T.3.5)
- - Liber de purgatorio Patricii: [M.11.136\*](M.11.136)
- - Liber metheororum: [C.9.1\*](C.9.1)
- - Liber naturarum: [R.4.8\*](R.4.8)
+     - 42.2 (PL 54.277A): [M.9.4](../mirador.html?c=M.9&p=4)
+ - Leo papa: [I.4.8\*](../mirador.html?c=I.4&p=8)
+   - (in Decretum): [P.13.2\*](../mirador.html?c=P.13&p=2)
+ - Lex Machometi: [P.2.1\*](../mirador.html?c=P.2&p=1)
+ - Liber Barlaam: [H.1.22\*](../mirador.html?c=H.1&p=22), [H.4.11\*](../mirador.html?c=H.4&p=11), [M.11.78\*](../mirador.html?c=M.11&p=78), [T.1.21\*](../mirador.html?c=T.1&p=21), [T.3.5\*](../mirador.html?c=T.3&p=5)
+ - Liber de purgatorio Patricii: [M.11.136\*](../mirador.html?c=M.11&p=136)
+ - Liber metheororum: [C.9.1\*](../mirador.html?c=C.9&p=1)
+ - Liber naturarum: [R.4.8\*](../mirador.html?c=R.4&p=8)
  - Liber sacramentorum Gellonensis
-   - rub.198, l.1 (Cetedoc) \*: [A.13.14](A.13.14)
+   - rub.198, l.1 (Cetedoc) \*: [A.13.14](../mirador.html?c=A.13&p=14)
  - Liberius papa
-   - (in Decretum): [V.7.3\*](V.7.3)
- - Libri de gestis sarracenorum: [A.27.63\*](A.27.63)
+   - (in Decretum): [V.7.3\*](../mirador.html?c=V.7&p=3)
+ - Libri de gestis sarracenorum: [A.27.63\*](../mirador.html?c=A.27&p=63)
  - Liturgy
    - Breviarium Romanum, in officio defunctorum
-     - III noct. Resp. ad lect. 7: [A.6.8](A.6.8)
+     - III noct. Resp. ad lect. 7: [A.6.8](../mirador.html?c=A.6&p=8)
    - Breviary
-     - Vigilias Apostolorum, Vespers: [A.10.4\*](A.10.4), [A.13.3\*](A.13.3), [B.2.35\*](B.2.35)
+     - Vigilias Apostolorum, Vespers: [A.10.4\*](../mirador.html?c=A.10&p=4), [A.13.3\*](../mirador.html?c=A.13&p=3), [B.2.35\*](../mirador.html?c=B.2&p=35)
    - Dominica prima aduentus
-     - Lectio: Mt. 21:1-9 (Sarum): [A.13.2](A.13.2)
+     - Lectio: Mt. 21:1-9 (Sarum): [A.13.2](../mirador.html?c=A.13&p=2)
    - Dominica secunda aduentus
-     - Lectio: Lc. 21:25-33 (Sarum): [A.13.2](A.13.2)
-   - Dominica secunda adventus: [A.13.4\*](A.13.4)
-   - Ecce rex tuus uenit: [A.2.4\*](A.2.4)
+     - Lectio: Lc. 21:25-33 (Sarum): [A.13.2](../mirador.html?c=A.13&p=2)
+   - Dominica secunda adventus: [A.13.4\*](../mirador.html?c=A.13&p=4)
+   - Ecce rex tuus uenit: [A.2.4\*](../mirador.html?c=A.2&p=4)
    - Sarum Breviary
-     - Matins invitatory: In die sanctorum innocentium (vol.1 col.231): [A.16.3](A.16.3)
-     - Matins invitatory: In festivitate omnium sanctorum (vol.3 col.962).: [A.16.3](A.16.3)
-     - Matins invitatory: In festo reliquiarum (vol.3 col.453): [A.16.3](A.16.3)
-     - Officium mortuorum (v.2 col.271): [A.15.5](A.15.5)
-   - Sermon of Leo inc. Observationem, read in many churches on 1st Sun. of Lent: [M.9.4\*](M.9.4)
+     - Matins invitatory: In die sanctorum innocentium (vol.1 col.231): [A.16.3](../mirador.html?c=A.16&p=3)
+     - Matins invitatory: In festivitate omnium sanctorum (vol.3 col.962).: [A.16.3](../mirador.html?c=A.16&p=3)
+     - Matins invitatory: In festo reliquiarum (vol.3 col.453): [A.16.3](../mirador.html?c=A.16&p=3)
+     - Officium mortuorum (v.2 col.271): [A.15.5](../mirador.html?c=A.15&p=5)
+   - Sermon of Leo inc. Observationem, read in many churches on 1st Sun. of Lent: [M.9.4\*](../mirador.html?c=M.9&p=4)
  - Lotharius di Segni
    - De miseria humane conditionis
-     - 2.6.1 (ed. Maccarrone, pp.43-44): [A.27.5](A.27.5)
+     - 2.6.1 (ed. Maccarrone, pp.43-44): [A.27.5](../mirador.html?c=A.27&p=5)

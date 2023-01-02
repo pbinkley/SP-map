@@ -29,7 +29,7 @@ mastodon_username: "@pbinkley@code4lib.social"
 github_username:  pbinkley
 
 header_pages:
-  - chapter-manifests/index.md
+  - manifests/index.md
   - sections/index.md
 
 # Build settings
