@@ -10,7 +10,7 @@ layout: page
 		<td><a href="{{ row.Chapter }}.json">{{ row.Chapter }}</a></td>
 		<td><strong>{{ row.Title }}</strong></td>
 		<td>({{ row.End | minus: row.Start | plus: 1 }} pages)</td>
-		<td><a href="{{ site.baseurl }}/mirador.html?manifest={{ root | append: row.Chapter | append: '.json' | uri_escape }}">Mirador</a></td>
+		<td><a href="{{ site.baseurl }}/mirador.html?c={{ row.Chapter | uri_escape }}">Mirador</a></td>
 	</tr>
 {% endfor %}
 </table>

@@ -1,3 +1,5 @@
+---
+---
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -37,6 +39,9 @@
          manifestId: manifest,
          thumbnailNavigation: 'off',
        }],
+       catalog: [
+         { manifestId: "{{ site.url }}{{ site.baseurl }}/collection.json" },
+       ]
      });
 
       // We create the action first. Note we are using a specified `windowId` here. This could be accessed from the store instead of specifying upfront.

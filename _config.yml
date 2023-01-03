@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: A Map of the Summa Predicancium of John Bromyard
+title: A Map of the Summa Praedicantium of John Bromyard
 email: peter.binkley@ualberta.ca
 description: >- # this means to ignore newlines until "baseurl:"
   An index, rough and incomplete, of Bromyard's citations, with links to 
