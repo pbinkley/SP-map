@@ -1,5 +1,5 @@
 ---
-title: Index Sections
+title: Citation Index
 layout: page
 ---
 

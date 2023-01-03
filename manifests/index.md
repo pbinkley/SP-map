@@ -1,5 +1,5 @@
 ---
-title: Chapter Manifests
+title: IIIF Manifests
 layout: page
 ---
 
