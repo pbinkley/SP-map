@@ -1,4 +1,7 @@
 Chapter,Start,End,Title,Annotated
+TabVocCap,7,7,Tabula vocalis [capitula],false
+TabRealis,8,74,Tabula realis,false
+TabVocalis,74,76,Tabula vocalis,false
 Prol,79,81,Prologus,false
 A.1,81,82,Abiecti et depressi,true
 A.2,82,83,Abiicere,true
