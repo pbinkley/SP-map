@@ -1,0 +1,283 @@
+{
+    "@type": "sc:AnnotationList",
+    "context": "http://iiif.io/api/presentation/2/context.json",
+    "resources": [
+        {
+            "@id": "http://localhost:8080/annotation/1672178700195",
+            "@type": "oa:Annotation",
+            "dcterms:created": "2022-12-27T15:05:00",
+            "dcterms:modified": "2022-12-29T21:50:51",
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "http://dev.llgc.org.uk/sas/full_text": "A.1.4",
+                    "format": "text/html",
+                    "chars": "<p>A.1.4</p>"
+                }
+            ],
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "within": {
+                        "@id": "https://pbinkley.github.io/SP-map/chapter-manifests/A.2.json",
+                        "@type": "sc:Manifest",
+                        "label": "Summa Predicantium: A.2 Abiicere"
+                    },
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=254,628,105,77"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M359.53985,704.86719h-52.56286v0h-52.56286v-38.67619v-38.67619h52.56286h52.56286v38.67619z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d57efc28-a6a9-4830-bea8-95ecb69ac3da\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "full": "https://permalinkbnd.bnportugal.gov.pt/iiif/69702/canvas/82"
+                }
+            ],
+            "motivation": [
+                "oa:commenting"
+            ],
+            "@context": "http://iiif.io/api/presentation/2/context.json"
+        },
+        {
+            "@id": "http://localhost:8080/annotation/1672178716705",
+            "@type": "oa:Annotation",
+            "dcterms:created": "2022-12-27T15:05:16",
+            "dcterms:modified": "2022-12-29T21:50:51",
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "http://dev.llgc.org.uk/sas/full_text": "A.1.5",
+                    "format": "text/html",
+                    "chars": "<p>A.1.5</p>"
+                }
+            ],
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "within": {
+                        "@id": "https://pbinkley.github.io/SP-map/chapter-manifests/A.2.json",
+                        "@type": "sc:Manifest",
+                        "label": "Summa Predicantium: A.2 Abiicere"
+                    },
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=266,808,87,77"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M266.30081,808.02529h43.6519v0h43.6519v38.69238v38.69238h-43.6519h-43.6519v-38.69238z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_f8b60ea6-ac1a-49f2-aa69-006c4477fe2d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "full": "https://permalinkbnd.bnportugal.gov.pt/iiif/69702/canvas/82"
+                }
+            ],
+            "motivation": [
+                "oa:commenting"
+            ],
+            "@context": "http://iiif.io/api/presentation/2/context.json"
+        },
+        {
+            "@id": "http://localhost:8080/annotation/1672178736952",
+            "@type": "oa:Annotation",
+            "dcterms:created": "2022-12-27T15:05:36",
+            "dcterms:modified": "2022-12-29T21:50:51",
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "http://dev.llgc.org.uk/sas/full_text": "A.1.6",
+                    "format": "text/html",
+                    "chars": "<p>A.1.6</p>"
+                }
+            ],
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "within": {
+                        "@id": "https://pbinkley.github.io/SP-map/chapter-manifests/A.2.json",
+                        "@type": "sc:Manifest",
+                        "label": "Summa Predicantium: A.2 Abiicere"
+                    },
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=239,1304,119,65"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M238.52747,1303.97767h59.52238v0h59.52238v32.74095v32.74095h-59.52238h-59.52238v-32.74095z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_eba9f56a-9a9e-4cbe-bec8-3adbe978d6c2\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "full": "https://permalinkbnd.bnportugal.gov.pt/iiif/69702/canvas/82"
+                }
+            ],
+            "motivation": [
+                "oa:commenting"
+            ],
+            "@context": "http://iiif.io/api/presentation/2/context.json"
+        },
+        {
+            "@id": "http://localhost:8080/annotation/1672178757459",
+            "@type": "oa:Annotation",
+            "dcterms:created": "2022-12-27T15:05:57",
+            "dcterms:modified": "2022-12-29T21:50:51",
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "http://dev.llgc.org.uk/sas/full_text": "A.1.7",
+                    "format": "text/html",
+                    "chars": "<p>A.1.7</p>"
+                }
+            ],
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "within": {
+                        "@id": "https://pbinkley.github.io/SP-map/chapter-manifests/A.2.json",
+                        "@type": "sc:Manifest",
+                        "label": "Summa Predicantium: A.2 Abiicere"
+                    },
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=251,2179,110,79"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M250.89425,2179.10598h55.18739v0h55.18739v39.57407v39.57407h-55.18739h-55.18739v-39.57407z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_9cdc27dd-06af-4414-8558-1346e1be606e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "full": "https://permalinkbnd.bnportugal.gov.pt/iiif/69702/canvas/82"
+                }
+            ],
+            "motivation": [
+                "oa:commenting"
+            ],
+            "@context": "http://iiif.io/api/presentation/2/context.json"
+        },
+        {
+            "@id": "http://localhost:8888/annotation/1672375911967",
+            "@type": "oa:Annotation",
+            "dcterms:created": "2022-12-29T21:51:51",
+            "dcterms:modified": "2022-12-29T21:51:51",
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "http://dev.llgc.org.uk/sas/full_text": "A.2 Art.1",
+                    "format": "text/html",
+                    "chars": "<p>A.2 Art.1</p>"
+                }
+            ],
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "within": {
+                        "@id": "https://pbinkley.github.io/SP-map/chapter-manifests/A.2.json",
+                        "@type": "sc:Manifest"
+                    },
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=2279,1180,196,97"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2279.41156,1179.72672h98.15476v0h98.15476v48.39256v48.39256h-98.15476h-98.15476v-48.39256z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_74b937c3-71e3-40a5-ada5-7be68e0b91c1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "full": "https://permalinkbnd.bnportugal.gov.pt/iiif/69702/canvas/82"
+                }
+            ],
+            "motivation": [
+                "oa:commenting"
+            ],
+            "@context": "http://iiif.io/api/presentation/2/context.json"
+        },
+        {
+            "@id": "http://localhost:8888/annotation/1672375966958",
+            "@type": "oa:Annotation",
+            "dcterms:created": "2022-12-29T21:52:46",
+            "dcterms:modified": "2022-12-29T21:52:46",
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "http://dev.llgc.org.uk/sas/full_text": "A.2.1",
+                    "format": "text/html",
+                    "chars": "<p>A.2.1</p>"
+                }
+            ],
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "within": {
+                        "@id": "https://pbinkley.github.io/SP-map/chapter-manifests/A.2.json",
+                        "@type": "sc:Manifest"
+                    },
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=2337,1307,87,79"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2337.09091,1307.08746h43.72727v0h43.72727v39.63636v39.63636h-43.72727h-43.72727v-39.63636z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_b1908e3a-74d9-4999-93ba-2b0cc4a5f97e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "full": "https://permalinkbnd.bnportugal.gov.pt/iiif/69702/canvas/82"
+                }
+            ],
+            "motivation": [
+                "oa:commenting"
+            ],
+            "@context": "http://iiif.io/api/presentation/2/context.json"
+        },
+        {
+            "@id": "http://localhost:8888/annotation/1672375999669",
+            "@type": "oa:Annotation",
+            "dcterms:created": "2022-12-29T21:53:19",
+            "dcterms:modified": "2022-12-29T21:53:19",
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "http://dev.llgc.org.uk/sas/full_text": "A.2.2",
+                    "format": "text/html",
+                    "chars": "<p>A.2.2</p>"
+                }
+            ],
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "within": {
+                        "@id": "https://pbinkley.github.io/SP-map/chapter-manifests/A.2.json",
+                        "@type": "sc:Manifest"
+                    },
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=2330,2968,90,85"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2329.81818,2968.00138h45.09091v0h45.09091v42.36364v42.36364h-45.09091h-45.09091v-42.36364z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d4c9d70d-7bf1-44ee-97bf-8b50eefbcc3a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "full": "https://permalinkbnd.bnportugal.gov.pt/iiif/69702/canvas/82"
+                }
+            ],
+            "motivation": [
+                "oa:commenting"
+            ],
+            "@context": "http://iiif.io/api/presentation/2/context.json"
+        }
+    ]
+}

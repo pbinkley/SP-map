@@ -1,0 +1,311 @@
+{
+    "@type": "sc:AnnotationList",
+    "context": "http://iiif.io/api/presentation/2/context.json",
+    "resources": [
+        {
+            "@id": "http://localhost:8080/annotation/1672178555942",
+            "@type": "oa:Annotation",
+            "dcterms:created": "2022-12-27T15:02:35",
+            "dcterms:modified": "2022-12-27T15:02:35",
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "http://dev.llgc.org.uk/sas/full_text": "A.1.1",
+                    "format": "text/html",
+                    "chars": "<p>A.1.1</p>"
+                }
+            ],
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "within": {
+                        "@id": "https://permalinkbnd.bnportugal.gov.pt/iiif/69702/manifest",
+                        "@type": "sc:Manifest"
+                    },
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=236,2904,94,80"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M235.53996,2903.99822h47.04263v0h47.04263v39.95915v39.95915h-47.04263h-47.04263v-39.95915z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_4cffd379-a3db-4c09-a8ad-7cef26527459\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "full": "https://permalinkbnd.bnportugal.gov.pt/iiif/69702/canvas/81"
+                }
+            ],
+            "motivation": [
+                "oa:commenting"
+            ],
+            "@context": "http://iiif.io/api/presentation/2/context.json"
+        },
+        {
+            "@id": "http://localhost:8080/annotation/1672178574971",
+            "@type": "oa:Annotation",
+            "dcterms:created": "2022-12-27T15:02:54",
+            "dcterms:modified": "2022-12-27T15:02:54",
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "http://dev.llgc.org.uk/sas/full_text": "A.1 Art.1",
+                    "format": "text/html",
+                    "chars": "<p>A.1 Art.1</p>"
+                }
+            ],
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "within": "https://permalinkbnd.bnportugal.gov.pt/iiif/69702/manifest",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=218,3056,158,105"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M217.83126,3056.29307h78.91829v0h78.91829v52.35524v52.35524h-78.91829h-78.91829v-52.35524z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_27ab0dda-deb3-430f-9f7f-ad8d61144bb6\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "full": "https://permalinkbnd.bnportugal.gov.pt/iiif/69702/canvas/81"
+                },
+                {
+                    "@type": "oa:SpecificResource",
+                    "within": {
+                        "@id": "https://permalinkbnd.bnportugal.gov.pt/iiif/69702/manifest",
+                        "@type": "sc:Manifest"
+                    },
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=151,2925,2,2"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M150.53819,2925.24867h1v0h1v1v1h-1h-1v-1z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_319b5b80-a6c0-4d8f-b2e9-aa65c245302a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "full": "https://permalinkbnd.bnportugal.gov.pt/iiif/69702/canvas/81"
+                }
+            ],
+            "motivation": [
+                "oa:commenting"
+            ],
+            "@context": "http://iiif.io/api/presentation/2/context.json"
+        },
+        {
+            "@id": "http://localhost:8080/annotation/1672178574971",
+            "@type": "oa:Annotation",
+            "dcterms:created": "2022-12-27T15:02:54",
+            "dcterms:modified": "2022-12-27T15:02:54",
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "http://dev.llgc.org.uk/sas/full_text": "A.1 Art.1",
+                    "format": "text/html",
+                    "chars": "<p>A.1 Art.1</p>"
+                }
+            ],
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "within": "https://permalinkbnd.bnportugal.gov.pt/iiif/69702/manifest",
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=218,3056,158,105"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M217.83126,3056.29307h78.91829v0h78.91829v52.35524v52.35524h-78.91829h-78.91829v-52.35524z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_27ab0dda-deb3-430f-9f7f-ad8d61144bb6\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "full": "https://permalinkbnd.bnportugal.gov.pt/iiif/69702/canvas/81"
+                },
+                {
+                    "@type": "oa:SpecificResource",
+                    "within": {
+                        "@id": "https://permalinkbnd.bnportugal.gov.pt/iiif/69702/manifest",
+                        "@type": "sc:Manifest"
+                    },
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=151,2925,2,2"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M150.53819,2925.24867h1v0h1v1v1h-1h-1v-1z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_319b5b80-a6c0-4d8f-b2e9-aa65c245302a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "full": "https://permalinkbnd.bnportugal.gov.pt/iiif/69702/canvas/81"
+                }
+            ],
+            "motivation": [
+                "oa:commenting"
+            ],
+            "@context": "http://iiif.io/api/presentation/2/context.json"
+        },
+        {
+            "@id": "http://localhost:8080/annotation/1672178604605",
+            "@type": "oa:Annotation",
+            "dcterms:created": "2022-12-27T15:03:24",
+            "dcterms:modified": "2022-12-27T15:03:24",
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "http://dev.llgc.org.uk/sas/full_text": "A.1 Art.2",
+                    "format": "text/html",
+                    "chars": "<p>A.1 Art.2</p>"
+                }
+            ],
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "within": {
+                        "@id": "https://permalinkbnd.bnportugal.gov.pt/iiif/69702/manifest",
+                        "@type": "sc:Manifest"
+                    },
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=2258,1303,183,105"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2257.87389,1303.13144h91.31439v0h91.31439v52.35524v52.35524h-91.31439h-91.31439v-52.35524z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_201632a8-f242-4e86-b790-39a2ec996ac8\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "full": "https://permalinkbnd.bnportugal.gov.pt/iiif/69702/canvas/81"
+                }
+            ],
+            "motivation": [
+                "oa:commenting"
+            ],
+            "@context": "http://iiif.io/api/presentation/2/context.json"
+        },
+        {
+            "@id": "http://localhost:8080/annotation/1672178632534",
+            "@type": "oa:Annotation",
+            "dcterms:created": "2022-12-27T15:03:52",
+            "dcterms:modified": "2022-12-27T15:03:52",
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "http://dev.llgc.org.uk/sas/full_text": "A.1.2",
+                    "format": "text/html",
+                    "chars": "<p>A.1.2</p>"
+                }
+            ],
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "within": {
+                        "@id": "https://permalinkbnd.bnportugal.gov.pt/iiif/69702/manifest",
+                        "@type": "sc:Manifest"
+                    },
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=2313,1507,89,105"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2312.77087,1506.78153h44.38632v0h44.38632v52.35524v52.35524h-44.38632h-44.38632v-52.35524z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_52da7619-cf84-49e2-ad64-1f03786f307c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "full": "https://permalinkbnd.bnportugal.gov.pt/iiif/69702/canvas/81"
+                }
+            ],
+            "motivation": [
+                "oa:commenting"
+            ],
+            "@context": "http://iiif.io/api/presentation/2/context.json"
+        },
+        {
+            "@id": "http://localhost:8080/annotation/1672178654958",
+            "@type": "oa:Annotation",
+            "dcterms:created": "2022-12-27T15:04:14",
+            "dcterms:modified": "2022-12-27T15:04:14",
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "http://dev.llgc.org.uk/sas/full_text": "A.1.3",
+                    "format": "text/html",
+                    "chars": "<p>A.1.3</p>"
+                }
+            ],
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "within": {
+                        "@id": "https://permalinkbnd.bnportugal.gov.pt/iiif/69702/manifest",
+                        "@type": "sc:Manifest"
+                    },
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=2313,2088,106,82"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2313.01421,2087.627h53.24067v0h53.24067v40.84458v40.84458h-53.24067h-53.24067v-40.84458z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_e57af086-e7de-4d85-a492-1e01a7ebdf83\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "full": "https://permalinkbnd.bnportugal.gov.pt/iiif/69702/canvas/81"
+                }
+            ],
+            "motivation": [
+                "oa:commenting"
+            ],
+            "@context": "http://iiif.io/api/presentation/2/context.json"
+        },
+        {
+            "@id": "http://localhost:8080/annotation/1672178676770",
+            "@type": "oa:Annotation",
+            "dcterms:created": "2022-12-27T15:04:36",
+            "dcterms:modified": "2022-12-27T15:04:36",
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "http://dev.llgc.org.uk/sas/full_text": "A.1 Art.3",
+                    "format": "text/html",
+                    "chars": "<p>A.1 Art.3</p>"
+                }
+            ],
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "within": {
+                        "@id": "https://permalinkbnd.bnportugal.gov.pt/iiif/69702/manifest",
+                        "@type": "sc:Manifest"
+                    },
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=2224,3316,192,115"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2224.36902,3315.846h95.86198v0h95.86198v57.61118v57.61118h-95.86198h-95.86198v-57.61118z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_58af27f4-0887-40be-84a1-b187275b8a4b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "full": "https://permalinkbnd.bnportugal.gov.pt/iiif/69702/canvas/81"
+                }
+            ],
+            "motivation": [
+                "oa:commenting"
+            ],
+            "@context": "http://iiif.io/api/presentation/2/context.json"
+        }
+    ]
+}

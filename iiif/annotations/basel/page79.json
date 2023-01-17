@@ -1,0 +1,240 @@
+{
+    "@type": "sc:AnnotationList",
+    "context": "http://iiif.io/api/presentation/2/context.json",
+    "resources": [
+        {
+            "@id": "http://localhost:8888/annotation/1673332000014",
+            "@type": "oa:Annotation",
+            "dcterms:created": "2023-01-09T23:26:40",
+            "dcterms:modified": "2023-01-09T23:26:40",
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "http://dev.llgc.org.uk/sas/full_text": "A.1.1",
+                    "format": "text/html",
+                    "chars": "<p>A.1.1</p>"
+                }
+            ],
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "within": {
+                        "@id": "https://www.e-rara.ch/i3f/v20/5788453/manifest",
+                        "@type": "sc:Manifest"
+                    },
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=463,3045,102,92"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M462.62393,3045.07407h50.76781v0h50.76781v45.95157v45.95157h-50.76781h-50.76781v-45.95157z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_af35da7f-ed40-4dbc-9772-169660c4b487\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "full": "https://www.e-rara.ch/i3f/v20/5788453/canvas/13265294"
+                }
+            ],
+            "motivation": [
+                "oa:commenting"
+            ],
+            "@context": "http://iiif.io/api/presentation/2/context.json"
+        },
+        {
+            "@id": "http://localhost:8888/annotation/1673332029698",
+            "@type": "oa:Annotation",
+            "dcterms:created": "2023-01-09T23:27:09",
+            "dcterms:modified": "2023-01-09T23:27:09",
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "http://dev.llgc.org.uk/sas/full_text": "A.1 Art.1",
+                    "format": "text/html",
+                    "chars": "<p>A.1 Art.1</p>"
+                }
+            ],
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "within": {
+                        "@id": "https://www.e-rara.ch/i3f/v20/5788453/manifest",
+                        "@type": "sc:Manifest"
+                    },
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=453,3215,140,89"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M452.99145,3215.24786h70.03276v0h70.03276v44.34615v44.34615h-70.03276h-70.03276v-44.34615z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_24257b5d-50f4-4374-af09-99cf07a0d712\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "full": "https://www.e-rara.ch/i3f/v20/5788453/canvas/13265294"
+                }
+            ],
+            "motivation": [
+                "oa:commenting"
+            ],
+            "@context": "http://iiif.io/api/presentation/2/context.json"
+        },
+        {
+            "@id": "http://localhost:8888/annotation/1673332067689",
+            "@type": "oa:Annotation",
+            "dcterms:created": "2023-01-09T23:27:47",
+            "dcterms:modified": "2023-01-09T23:27:47",
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "http://dev.llgc.org.uk/sas/full_text": "A.1 Art.2",
+                    "format": "text/html",
+                    "chars": "<p>A.1 Art.2</p>"
+                }
+            ],
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "within": {
+                        "@id": "https://www.e-rara.ch/i3f/v20/5788453/manifest",
+                        "@type": "sc:Manifest"
+                    },
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=2435,1456,187,96"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2435.26591,1456.25024h93.31125v0h93.31125v47.82455v47.82455h-93.31125h-93.31125v-47.82455z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_69f0d832-f9e9-4ecd-91e6-bd78e4450b9b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "full": "https://www.e-rara.ch/i3f/v20/5788453/canvas/13265294"
+                }
+            ],
+            "motivation": [
+                "oa:commenting"
+            ],
+            "@context": "http://iiif.io/api/presentation/2/context.json"
+        },
+        {
+            "@id": "http://localhost:8888/annotation/1673332096670",
+            "@type": "oa:Annotation",
+            "dcterms:created": "2023-01-09T23:28:16",
+            "dcterms:modified": "2023-01-09T23:28:16",
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "http://dev.llgc.org.uk/sas/full_text": "A.1.2",
+                    "format": "text/html",
+                    "chars": "<p>A.1.2</p>"
+                }
+            ],
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "within": {
+                        "@id": "https://www.e-rara.ch/i3f/v20/5788453/manifest",
+                        "@type": "sc:Manifest"
+                    },
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=2494,1657,98,96"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2494.13105,1656.92688h49.16239v0h49.16239v47.82455v47.82455h-49.16239h-49.16239v-47.82455z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_ce1156ef-b2e7-4e9e-bd70-80856b74d6b7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "full": "https://www.e-rara.ch/i3f/v20/5788453/canvas/13265294"
+                }
+            ],
+            "motivation": [
+                "oa:commenting"
+            ],
+            "@context": "http://iiif.io/api/presentation/2/context.json"
+        },
+        {
+            "@id": "http://localhost:8888/annotation/1673332126667",
+            "@type": "oa:Annotation",
+            "dcterms:created": "2023-01-09T23:28:46",
+            "dcterms:modified": "2023-01-09T23:28:46",
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "http://dev.llgc.org.uk/sas/full_text": "A.1.3",
+                    "format": "text/html",
+                    "chars": "<p>A.1.3</p>"
+                }
+            ],
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "within": {
+                        "@id": "https://www.e-rara.ch/i3f/v20/5788453/manifest",
+                        "@type": "sc:Manifest"
+                    },
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=2508,2219,106,98"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2507.5095,2218.82146h53.17593v0h53.17593v49.16239v49.16239h-53.17593h-53.17593v-49.16239z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_0d07e3a6-f6d7-4789-8b9b-fc7e89bd28a1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "full": "https://www.e-rara.ch/i3f/v20/5788453/canvas/13265294"
+                }
+            ],
+            "motivation": [
+                "oa:commenting"
+            ],
+            "@context": "http://iiif.io/api/presentation/2/context.json"
+        },
+        {
+            "@id": "http://localhost:8888/annotation/1673332165993",
+            "@type": "oa:Annotation",
+            "dcterms:created": "2023-01-09T23:29:25",
+            "dcterms:modified": "2023-01-09T23:29:25",
+            "resource": [
+                {
+                    "@type": "dctypes:Text",
+                    "http://dev.llgc.org.uk/sas/full_text": "A.1 Art.3",
+                    "format": "text/html",
+                    "chars": "<p>A.1 Art.3</p>"
+                }
+            ],
+            "on": [
+                {
+                    "@type": "oa:SpecificResource",
+                    "within": {
+                        "@id": "https://www.e-rara.ch/i3f/v20/5788453/manifest",
+                        "@type": "sc:Manifest"
+                    },
+                    "selector": {
+                        "@type": "oa:Choice",
+                        "default": {
+                            "@type": "oa:FragmentSelector",
+                            "value": "xywh=2419,3426,197,87"
+                        },
+                        "item": {
+                            "@type": "oa:SvgSelector",
+                            "value": "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2419.31611,3426.42953h98.42211v0h98.42211v43.58185v43.58185h-98.42211h-98.42211v-43.58185z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_beb5e404-e21f-49aa-a633-f419982e2434\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+                        }
+                    },
+                    "full": "https://www.e-rara.ch/i3f/v20/5788453/canvas/13265294"
+                }
+            ],
+            "motivation": [
+                "oa:commenting"
+            ],
+            "@context": "http://iiif.io/api/presentation/2/context.json"
+        }
+    ]
+}
