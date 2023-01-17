@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: A Map of the Summa Praedicantium of John Bromyard
+title: A Map of the Summa Praedicantium
 email: peter.binkley@ualberta.ca
 description: >- # this means to ignore newlines until "baseurl:"
   An index, rough and incomplete, of Bromyard's citations, with links to 
-  a IIIF presentation of the Amerback printing (c.1484).
+  a IIIF presentation of the Amerbach edition (c.1484).
 baseurl: "/SP-map" # the subpath of your site, e.g. /blog
 url: "https://pbinkley.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: pbinkley

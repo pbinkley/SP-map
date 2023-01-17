@@ -26,4 +26,6 @@ The [citation index]({{ site.baseurl }}/sections/) presents an alphabetical list
 
 The citation index is keyed to the chapter and paragraph number. It includes cross-references (under X for "Xref"), so it is possible to find where a paragraph is cited in other paragraphs. 
 
-[^note1]: In the 1990s I worked on a critical edition of the *Summa* as a post-doctoral fellow at the COMERS Institute at the University of Groningen. I completed the text of the chapters from A to C, but I didn't find a position after the postdoc wound up, and started a new career as a librarian. I've copied the working text of the *Summa* and my notes forward from computer to computer over the last twenty-five years. This research was supported by...
+------
+
+[^note1]: In the 1990s I worked on a critical edition of the *Summa* as a post-doctoral fellow at the COMERS Institute at the University of Groningen. I completed the text of the chapters from A to C, but I didn't find a position after the postdoc wound up, and started a new career as a librarian. I've copied the working text of the *Summa* and my notes forward from computer to computer over the last twenty-five years. This research was supported by a post-doctoral fellowship provided by the Central Policy Reserves ("Centrale Beleidsruimte") of the University of Groningen.
