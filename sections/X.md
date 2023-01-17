@@ -1142,7 +1142,7 @@ title: "Index: X"
      - 19 or 29: [B.2.40\*](../mirador.html?c=B.2&p=40)
      - 20: [C.16.50\*](../mirador.html?c=C.16&p=50), [I.13.37\*](../mirador.html?c=I.13&p=37), [M.2.14\*](../mirador.html?c=M.2&p=14)
      - 26: [F.3.34\*](../mirador.html?c=F.3&p=34), [I.4.7\*](../mirador.html?c=I.4&p=7), [I.4.14\*](../mirador.html?c=I.4&p=14), [I.9.33\*](../mirador.html?c=I.9&p=33)
-     - 26 [LaPE1]: [Prol.2\*](../mirador.html?c=0PROL&p=2)
+     - 26 [LaPE1]: [Prol.2\*](../mirador.html?c=Prol&p=2)
      - 28: [F.3.30\*](../mirador.html?c=F.3&p=30), [I.12.33\*](../mirador.html?c=I.12&p=33), [N.3.4\*](../mirador.html?c=N.3&p=4), [R.4.7\*](../mirador.html?c=R.4&p=7), [S.6.1\*](../mirador.html?c=S.6&p=1)
      - 30: [E.2.13\*](../mirador.html?c=E.2&p=13), [P.13.28\*](../mirador.html?c=P.13&p=28), [V.8.26\*](../mirador.html?c=V.8&p=26)
      - 32 cum seqq.: [P.13.28\*](../mirador.html?c=P.13&p=28)

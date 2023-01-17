@@ -131,12 +131,12 @@ title: "Index: S"
      - 108.35, 37: [P.12.19](../mirador.html?c=P.12&p=19)
      - 108.36: [P.12.17](../mirador.html?c=P.12&p=17)
    - Epistulae Morales (ed. Reynolds)
-     - 2 (i.2) §4 (vol. 1 p. 3): [Prol.5](../mirador.html?c=0PROL&p=5)
-     - 55 §5 (vol. 1 p. 146 lines 3-4): [Prol.2](../mirador.html?c=0PROL&p=2)
-     - 64 (vii. 2) §7 (vol. 1 p. 174): [Prol.1](../mirador.html?c=0PROL&p=1)
-     - 79 §17 (vol. 1 p. 260 line 7): [Prol.2](../mirador.html?c=0PROL&p=2)
-     - 84 § 2 (vol.1 p. 285 lines 11-15): [Prol.5](../mirador.html?c=0PROL&p=5)
-     - 84 § 3 (vol. 1 p. 285 lines 15-18): [Prol.5](../mirador.html?c=0PROL&p=5)
+     - 2 (i.2) §4 (vol. 1 p. 3): [Prol.5](../mirador.html?c=Prol&p=5)
+     - 55 §5 (vol. 1 p. 146 lines 3-4): [Prol.2](../mirador.html?c=Prol&p=2)
+     - 64 (vii. 2) §7 (vol. 1 p. 174): [Prol.1](../mirador.html?c=Prol&p=1)
+     - 79 §17 (vol. 1 p. 260 line 7): [Prol.2](../mirador.html?c=Prol&p=2)
+     - 84 § 2 (vol.1 p. 285 lines 11-15): [Prol.5](../mirador.html?c=Prol&p=5)
+     - 84 § 3 (vol. 1 p. 285 lines 15-18): [Prol.5](../mirador.html?c=Prol&p=5)
    - Musica
      - lib.2: [O.6.20\*](../mirador.html?c=O.6&p=20)
    - Phaedra

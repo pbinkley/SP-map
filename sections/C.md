@@ -35,7 +35,7 @@ title: "Index: C"
      - 2.3 (PL 69.923-4): [P.12.30](../mirador.html?c=P.12&p=30)
    - Variarum libri duodecim
      - 1.39 l.19 (Cetedoc): [A.8.10](../mirador.html?c=A.8&p=10)
-     - 9, 22: [Prol.1](../mirador.html?c=0PROL&p=1)
+     - 9, 22: [Prol.1](../mirador.html?c=Prol&p=1)
  - Cato
    - Proverbia: [V.1.3\*](../mirador.html?c=V.1&p=3)
  - Chronica: [B.2.41\*](../mirador.html?c=B.2&p=41), [N.1.17\*](../mirador.html?c=N.1&p=17), [P.13.15\*](../mirador.html?c=P.13&p=15)
@@ -47,14 +47,14 @@ title: "Index: C"
  - Chronica Romanorum pontificum: [S.11.6\*](../mirador.html?c=S.11&p=6)
  - Cicero: [I.9.13\*](../mirador.html?c=I.9&p=13), [L.5.24\*](../mirador.html?c=L.5&p=24), [N.3.1\*](../mirador.html?c=N.3&p=1), [P.3.3\*](../mirador.html?c=P.3&p=3), [P.8.6\*](../mirador.html?c=P.8&p=6), [V.5.7\*](../mirador.html?c=V.5&p=7), [V.12.6\*](../mirador.html?c=V.12&p=6)
    - De amicicia: [V.1.3\*](../mirador.html?c=V.1&p=3)
-     - 12.43: [Prol.2](../mirador.html?c=0PROL&p=2)
+     - 12.43: [Prol.2](../mirador.html?c=Prol&p=2)
    - De amicitia: [D.9.22\*](../mirador.html?c=D.9&p=22), [V.6.5\*](../mirador.html?c=V.6&p=5)
      - 12.40: [A.21.31](../mirador.html?c=A.21&p=31)
    - De legibus
      - 1.6.18: [A.14.2](../mirador.html?c=A.14&p=2)
    - De officiis: [M.4.11\*](../mirador.html?c=M.4&p=11)
      - 1.1: [O.6.26\*](../mirador.html?c=O.6&p=26)
-     - 1.7.22: [Prol.2](../mirador.html?c=0PROL&p=2)
+     - 1.7.22: [Prol.2](../mirador.html?c=Prol&p=2)
      - 1.22.75: [C.4.14](../mirador.html?c=C.4&p=14)
      - 1.22.76: [C.4.14](../mirador.html?c=C.4&p=14)
      - 1.22.76 \* (attrib. Seneca, Ep. 14): [B.2.23](../mirador.html?c=B.2&p=23)
@@ -1080,7 +1080,7 @@ title: "Index: C"
      - 42.1.53: [A.26.33](../mirador.html?c=A.26&p=33)
      - 48.2.12: [A.11.3](../mirador.html?c=A.11&p=3)
      - 48.5.2 (bad ref.?): [A.17.10](../mirador.html?c=A.17&p=10)
-     - 49.15.19 §7: [Prol.2](../mirador.html?c=0PROL&p=2)
+     - 49.15.19 §7: [Prol.2](../mirador.html?c=Prol&p=2)
      - 50.11.1: [A.6.4](../mirador.html?c=A.6&p=4)
    - Digestum
      - 2.14.39: [V.2.9](../mirador.html?c=V.2&p=9)
@@ -1290,8 +1290,8 @@ title: "Index: C"
      - 8.pr.§1: [I.9.13](../mirador.html?c=I.9&p=13), [I.9.23](../mirador.html?c=I.9&p=23)
    - Novellae
      - 112.3 = Coll. 8.12.3, §1 ff.: [F.5.5](../mirador.html?c=F.5&p=5)
-     - Auth. coll. 2.2 = Nov. 8 (vol. 3 p. 64): [Prol.2](../mirador.html?c=0PROL&p=2)
-     - Auth. coll. 8.10 = Nov. 114.pr (vol. 3 p. 533 lines 6-7): [Prol.2](../mirador.html?c=0PROL&p=2)
+     - Auth. coll. 2.2 = Nov. 8 (vol. 3 p. 64): [Prol.2](../mirador.html?c=Prol&p=2)
+     - Auth. coll. 8.10 = Nov. 114.pr (vol. 3 p. 533 lines 6-7): [Prol.2](../mirador.html?c=Prol&p=2)
  - Council of Merton & Westminster
    - 16 (Powicke and Cheney, Councils and Synods, v.1, pp.581-2): [B.2.44](../mirador.html?c=B.2&p=44)
  - Cronica Romanorum pontificum: [I.9.17\*](../mirador.html?c=I.9&p=17)

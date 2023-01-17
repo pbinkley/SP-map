@@ -19,7 +19,7 @@ layout: page
 			<td>{{ subrow["Chapter"] }}</td>
 			<td><strong>{{ subrow["Title"] }}</strong></td>
 			<td>({{ subrow["End"] | minus: subrow["Start"] | plus: 1 }} pages)</td>
-			<td><a href="{{ site.baseurl }}/mirador.html?canvas={{ subrow["Canvas"] | uri_escape }}">Mirador</a></td>
+			<td><a href="{{ site.baseurl }}/mirador.html?c={{ subrow["Chapter"] | uri_escape }}">Mirador</a></td>
 		</tr>
 	{% endfor %}
 {% endfor %}

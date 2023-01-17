@@ -20,7 +20,7 @@ title: "Index: R"
  - Remigius: [S.10.5\*](../mirador.html?c=S.10&p=5), [S.10.7\*](../mirador.html?c=S.10&p=7)
  - Ricardus de Sancto Victore
    - De duodecim patriarchis (Benjamin minor)
-     - 44 (PL 196.33) (misattrib. to Gregorius, Moralia): [Prol.6](../mirador.html?c=0PROL&p=6)
+     - 44 (PL 196.33) (misattrib. to Gregorius, Moralia): [Prol.6](../mirador.html?c=Prol&p=6)
    - De gradibus caritatis
      - c.1 (PL 196.1195C) (attrib. Bernard): [C.1.12](../mirador.html?c=C.1&p=12)
  - Robertus Grosseteste

@@ -111,7 +111,7 @@ title: "Index: A"
    - De vectigalibus
      - 2: [O.6.46\*](../mirador.html?c=O.6&p=46)
    - Ethica: [C.10.11\*](../mirador.html?c=C.10&p=11), [E.3.7\*](../mirador.html?c=E.3&p=7), [E.9.6\*](../mirador.html?c=E.9&p=6), [G.4.1\*](../mirador.html?c=G.4&p=1), [I.9.9\*](../mirador.html?c=I.9&p=9), [M.13.20\*](../mirador.html?c=M.13&p=20), [P.7.19\*](../mirador.html?c=P.7&p=19), [T.5.48\*](../mirador.html?c=T.5&p=48), [V.6.2\*](../mirador.html?c=V.6&p=2)
-     - 1: [Prol.2\*](../mirador.html?c=0PROL&p=2), [D.9.4\*](../mirador.html?c=D.9&p=4), [M.8.8\*](../mirador.html?c=M.8&p=8)
+     - 1: [Prol.2\*](../mirador.html?c=Prol&p=2), [D.9.4\*](../mirador.html?c=D.9&p=4), [M.8.8\*](../mirador.html?c=M.8&p=8)
      - 1.7: [V.1.10\*](../mirador.html?c=V.1&p=10)
      - 1.16: [P.9.9\*](../mirador.html?c=P.9&p=9)
      - 2: [V.11.4\*](../mirador.html?c=V.11&p=4)
@@ -199,7 +199,7 @@ title: "Index: A"
    - De baptismo
      - (in Decretum): [P.4.28\*](../mirador.html?c=P.4&p=28)
    - De catechizandis rudibus
-     - 9.: [Prol.3](../mirador.html?c=0PROL&p=3)
+     - 9.: [Prol.3](../mirador.html?c=Prol&p=3)
      - (in Decretum): [P.12.31\*](../mirador.html?c=P.12&p=31)
    - De civitate Dei: [A.24.2\*](../mirador.html?c=A.24&p=2), [F.1.3\*](../mirador.html?c=F.1&p=3), [G.2.35\*](../mirador.html?c=G.2&p=35), [L.4.8\*](../mirador.html?c=L.4&p=8), [P.4.6\*](../mirador.html?c=P.4&p=6), [P.8.24\*](../mirador.html?c=P.8&p=24), [P.9.12\*](../mirador.html?c=P.9&p=12), [S.11.6\*](../mirador.html?c=S.11&p=6), [V.1.8\*](../mirador.html?c=V.1&p=8)
      - 1: [D.6.4\*](../mirador.html?c=D.6&p=4)

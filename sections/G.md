@@ -209,8 +209,8 @@ title: "Index: G"
    - In Evangelia
      - 34.10 (PL 76.1251C-52B): [A.22.4](../mirador.html?c=A.22&p=4)
    - In Hiezechielem
-     - I. Homilia III, §5: [Prol.1](../mirador.html?c=0PROL&p=1)
-     - I, Homilia XII, §30 (lines 578-579): [Prol.6](../mirador.html?c=0PROL&p=6)
+     - I. Homilia III, §5: [Prol.1](../mirador.html?c=Prol&p=1)
+     - I, Homilia XII, §30 (lines 578-579): [Prol.6](../mirador.html?c=Prol&p=6)
    - Liber responsalis
      - in vigilia apostolorum, ad Vesperas (PL 78.819D): [A.10.4](../mirador.html?c=A.10&p=4), [A.13.3](../mirador.html?c=A.13&p=3)
    - misattribution: [A.15.25](../mirador.html?c=A.15&p=25), [C.5.11\*](../mirador.html?c=C.5&p=11), [C.12.11](../mirador.html?c=C.12&p=11)
@@ -288,8 +288,8 @@ title: "Index: G"
      - lib.16: [M.11.145\*](../mirador.html?c=M.11&p=145)
      - lib.21: [M.8.12\*](../mirador.html?c=M.8&p=12)
      - lib.24: [M.11.10\*](../mirador.html?c=M.11&p=10)
-     - misattribution: see Ricardus de Sancto Victore: [Prol.6](../mirador.html?c=0PROL&p=6)
-     - Praef., 2.: [Prol.4](../mirador.html?c=0PROL&p=4)
+     - misattribution: see Ricardus de Sancto Victore: [Prol.6](../mirador.html?c=Prol&p=6)
+     - Praef., 2.: [Prol.4](../mirador.html?c=Prol&p=4)
      - super illud Iob 41 Una uni coniungitur...: [F.1.10\*](../mirador.html?c=F.1&p=10)
    - Pastoralia: [D.1.19\*](../mirador.html?c=D.1&p=19), [O.6.8\*](../mirador.html?c=O.6&p=8), [O.6.55\*](../mirador.html?c=O.6&p=55), [O.6.65\*](../mirador.html?c=O.6&p=65), [P.4.27\*](../mirador.html?c=P.4&p=27)
      - 1.1: [P.13.12\*](../mirador.html?c=P.13&p=12)
@@ -348,7 +348,7 @@ title: "Index: G"
    - Super Psalmos
      - Ps.22 Virga tua et baculus tuus ipsa me consolata sunt: [P.13.6\*](../mirador.html?c=P.13&p=6)
    - xl homiliarum in euangelia libri duo
-     - 1, 6, 6.: [Prol.6](../mirador.html?c=0PROL&p=6)
+     - 1, 6, 6.: [Prol.6](../mirador.html?c=Prol&p=6)
      - 1.6 c.6 l.7 (cetedoc): [A.22.17](../mirador.html?c=A.22&p=17)
      - 1.16 c.5 l.49 (CETEDOC): [A.4.9](../mirador.html?c=A.4&p=9)
      - 1.17 c.8 l.20 (cetedoc): [A.15.22](../mirador.html?c=A.15&p=22)

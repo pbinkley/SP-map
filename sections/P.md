@@ -29,7 +29,7 @@ title: "Index: P"
      - 94 (PL 207.296A): [A.24.2](../mirador.html?c=A.24&p=2)
      - 94 (PL 207.296B): [A.24.3](../mirador.html?c=A.24&p=3)
    - Epistolae (ed. Giles)
-     -  8 (vol. 1 p. 21 lines 16-20): [Prol.3](../mirador.html?c=0PROL&p=3)
+     -  8 (vol. 1 p. 21 lines 16-20): [Prol.3](../mirador.html?c=Prol&p=3)
  - Petrus Cluniacensis: [E.6.14\*](../mirador.html?c=E.6&p=14)
    - Liber (not in Cetedoc): [A.13.25\*](../mirador.html?c=A.13&p=25)
  - Petrus Comestor

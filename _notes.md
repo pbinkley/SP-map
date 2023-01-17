@@ -44,6 +44,6 @@ Mirador actions: https://github.com/ProjectMirador/mirador/blob/master/src/state
 
 ## Processing Index
 
-1. run ```preprocess_index.rb```. It reads the old Nota Bene index files from ```Index``` and generates json files names ```index-7.json1``` etc.
+1. run ```preprocess_index.rb```. It reads the old Nota Bene index files from ```Index``` and generates json files names ```index-7.json``` etc.
 2. run ```generate_index.rb```. It reads the index json files and outputs full md files for each index type. This is where the md links are added to reference.
 3. run ```chop_index.rb```. This reads the full md files and outputs the alphabetical sections (A, B, C, etc.) as markdown to ```SP-map/sections```
