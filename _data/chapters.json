@@ -1,0 +1,1670 @@
+[
+  {
+    "Chapter": "Vol1Front",
+    "Start": 1,
+    "End": 4,
+    "Title": "Vol. I Front",
+    "Annotated": false,
+    "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265215"
+  },
+  {
+    "Chapter": "TabVocCap",
+    "Start": 5,
+    "End": 5,
+    "Title": "Tabula vocalis [capitula]",
+    "Annotated": false,
+    "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265220"
+  },
+  {
+    "Chapter": "TabRealis",
+    "Start": 6,
+    "End": 72,
+    "Title": "Tabula realis",
+    "Annotated": false,
+    "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265222"
+  },
+  {
+    "Chapter": "TabVocalis",
+    "Start": 72,
+    "End": 76,
+    "Title": "Tabula vocalis",
+    "Annotated": false,
+    "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265287"
+  },
+  {
+    "Chapter": "Prol",
+    "Start": 77,
+    "End": 79,
+    "Title": "Prologus",
+    "Annotated": false,
+    "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265292"
+  },
+  {
+    "Initial": "A",
+    "Chapters": [
+      {
+        "Chapter": "A.1",
+        "Start": 79,
+        "End": 80,
+        "Title": "Abiectio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265294"
+      },
+      {
+        "Chapter": "A.2",
+        "Start": 80,
+        "End": 81,
+        "Title": "Abiicere",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265295"
+      },
+      {
+        "Chapter": "A.3",
+        "Start": 81,
+        "End": 85,
+        "Title": "Ab infantia",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265296"
+      },
+      {
+        "Chapter": "A.4",
+        "Start": 85,
+        "End": 87,
+        "Title": "Abstinentia",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265300"
+      },
+      {
+        "Chapter": "A.5",
+        "Start": 87,
+        "End": 88,
+        "Title": "Absconsio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265302"
+      },
+      {
+        "Chapter": "A.6",
+        "Start": 88,
+        "End": 89,
+        "Title": "Abusio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265303"
+      },
+      {
+        "Chapter": "A.7",
+        "Start": 89,
+        "End": 93,
+        "Title": "Absolutio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265304"
+      },
+      {
+        "Chapter": "A.8",
+        "Start": 93,
+        "End": 96,
+        "Title": "Acedia",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265308"
+      },
+      {
+        "Chapter": "A.9",
+        "Start": 96,
+        "End": 97,
+        "Title": "Accedere",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265311"
+      },
+      {
+        "Chapter": "A.10",
+        "Start": 97,
+        "End": 99,
+        "Title": "Accipere",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265312"
+      },
+      {
+        "Chapter": "A.11",
+        "Start": 99,
+        "End": 101,
+        "Title": "Accusatio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265314"
+      },
+      {
+        "Chapter": "A.12",
+        "Start": 102,
+        "End": 115,
+        "Title": "Acquisitio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265317"
+      },
+      {
+        "Chapter": "A.13",
+        "Start": 115,
+        "End": 124,
+        "Title": "Adventus",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265330"
+      },
+      {
+        "Chapter": "A.14",
+        "Start": 124,
+        "End": 135,
+        "Title": "Advocati",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265339"
+      },
+      {
+        "Chapter": "A.15",
+        "Start": 135,
+        "End": 142,
+        "Title": "Adulatio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265350"
+      },
+      {
+        "Chapter": "A.16",
+        "Start": 142,
+        "End": 143,
+        "Title": "Adoratio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265357"
+      },
+      {
+        "Chapter": "A.17",
+        "Start": 143,
+        "End": 146,
+        "Title": "Adulterium",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265358"
+      },
+      {
+        "Chapter": "A.18",
+        "Start": 146,
+        "End": 148,
+        "Title": "Adversitas",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265361"
+      },
+      {
+        "Chapter": "A.19",
+        "Start": 148,
+        "End": 151,
+        "Title": "Ambulare",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265363"
+      },
+      {
+        "Chapter": "A.20",
+        "Start": 151,
+        "End": 156,
+        "Title": "Amor",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265366"
+      },
+      {
+        "Chapter": "A.21",
+        "Start": 156,
+        "End": 166,
+        "Title": "Amicitia",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265371"
+      },
+      {
+        "Chapter": "A.22",
+        "Start": 166,
+        "End": 170,
+        "Title": "Angeli",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265381"
+      },
+      {
+        "Chapter": "A.23",
+        "Start": 170,
+        "End": 176,
+        "Title": "Anima",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265385"
+      },
+      {
+        "Chapter": "A.24",
+        "Start": 176,
+        "End": 180,
+        "Title": "Arma",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265391"
+      },
+      {
+        "Chapter": "A.25",
+        "Start": 180,
+        "End": 188,
+        "Title": "Ascendere",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265395"
+      },
+      {
+        "Chapter": "A.26",
+        "Start": 188,
+        "End": 197,
+        "Title": "Audire",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265403"
+      },
+      {
+        "Chapter": "A.27",
+        "Start": 197,
+        "End": 214,
+        "Title": "Avaritia",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265412"
+      }
+    ]
+  },
+  {
+    "Initial": "B",
+    "Chapters": [
+      {
+        "Chapter": "B.1",
+        "Start": 214,
+        "End": 218,
+        "Title": "Beatitudo",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265429"
+      },
+      {
+        "Chapter": "B.2",
+        "Start": 218,
+        "End": 231,
+        "Title": "Bellum",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265433"
+      },
+      {
+        "Chapter": "B.3",
+        "Start": 231,
+        "End": 232,
+        "Title": "Benefacere",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265446"
+      },
+      {
+        "Chapter": "B.4",
+        "Start": 232,
+        "End": 236,
+        "Title": "Bonitas",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265447"
+      }
+    ]
+  },
+  {
+    "Initial": "C",
+    "Chapters": [
+      {
+        "Chapter": "C.1",
+        "Start": 236,
+        "End": 240,
+        "Title": "Caritas",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265451"
+      },
+      {
+        "Chapter": "C.2",
+        "Start": 240,
+        "End": 243,
+        "Title": "Caro",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265455"
+      },
+      {
+        "Chapter": "C.3",
+        "Start": 243,
+        "End": 245,
+        "Title": "Castitas",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265458"
+      },
+      {
+        "Chapter": "C.4",
+        "Start": 245,
+        "End": 251,
+        "Title": "Civitas",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265460"
+      },
+      {
+        "Chapter": "C.5",
+        "Start": 251,
+        "End": 257,
+        "Title": "Contritio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265466"
+      },
+      {
+        "Chapter": "C.6",
+        "Start": 257,
+        "End": 272,
+        "Title": "Confessio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265472"
+      },
+      {
+        "Chapter": "C.7",
+        "Start": 272,
+        "End": 278,
+        "Title": "Conscientia",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265487"
+      },
+      {
+        "Chapter": "C.8",
+        "Start": 278,
+        "End": 285,
+        "Title": "Consuetudo",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265493"
+      },
+      {
+        "Chapter": "C.9",
+        "Start": 285,
+        "End": 286,
+        "Title": "Concordia",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265500"
+      },
+      {
+        "Chapter": "C.10",
+        "Start": 286,
+        "End": 290,
+        "Title": "Cogitatio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265501"
+      },
+      {
+        "Chapter": "C.11",
+        "Start": 290,
+        "End": 300,
+        "Title": "Consiliarii",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265505"
+      },
+      {
+        "Chapter": "C.12",
+        "Start": 300,
+        "End": 303,
+        "Title": "Compassio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265515"
+      },
+      {
+        "Chapter": "C.13",
+        "Start": 303,
+        "End": 304,
+        "Title": "Conversatio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265518"
+      },
+      {
+        "Chapter": "C.14",
+        "Start": 304,
+        "End": 309,
+        "Title": "Cor",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265519"
+      },
+      {
+        "Chapter": "C.15",
+        "Start": 309,
+        "End": 312,
+        "Title": "Chorea",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265524"
+      },
+      {
+        "Chapter": "C.16",
+        "Start": 312,
+        "End": 323,
+        "Title": "Correctio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265527"
+      },
+      {
+        "Chapter": "C.17",
+        "Start": 323,
+        "End": 332,
+        "Title": "Crux",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265538"
+      },
+      {
+        "Chapter": "C.18",
+        "Start": 332,
+        "End": 334,
+        "Title": "Custodia",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265547"
+      }
+    ]
+  },
+  {
+    "Initial": "D",
+    "Chapters": [
+      {
+        "Chapter": "D.1",
+        "Start": 335,
+        "End": 342,
+        "Title": "Damnatio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265550"
+      },
+      {
+        "Chapter": "D.2",
+        "Start": 342,
+        "End": 345,
+        "Title": "Desperatio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265557"
+      },
+      {
+        "Chapter": "D.3",
+        "Start": 345,
+        "End": 349,
+        "Title": "Decima",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265560"
+      },
+      {
+        "Chapter": "D.4",
+        "Start": 349,
+        "End": 353,
+        "Title": "Dedicatio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265564"
+      },
+      {
+        "Chapter": "D.5",
+        "Start": 353,
+        "End": 355,
+        "Title": "Delectatio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265568"
+      },
+      {
+        "Chapter": "D.6",
+        "Start": 355,
+        "End": 365,
+        "Title": "Detractio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265570"
+      },
+      {
+        "Chapter": "D.7",
+        "Start": 365,
+        "End": 366,
+        "Title": "Discretio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265580"
+      },
+      {
+        "Chapter": "D.8",
+        "Start": 366,
+        "End": 368,
+        "Title": "Discordia",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265581"
+      },
+      {
+        "Chapter": "D.9",
+        "Start": 368,
+        "End": 375,
+        "Title": "Dilectio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265583"
+      },
+      {
+        "Chapter": "D.10",
+        "Start": 375,
+        "End": 379,
+        "Title": "Dimittere",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265590"
+      },
+      {
+        "Chapter": "D.11",
+        "Start": 379,
+        "End": 388,
+        "Title": "Divitiae",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265594"
+      },
+      {
+        "Chapter": "D.12",
+        "Start": 388,
+        "End": 398,
+        "Title": "Dominatio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265603"
+      }
+    ]
+  },
+  {
+    "Initial": "E",
+    "Chapters": [
+      {
+        "Chapter": "E.1",
+        "Start": 398,
+        "End": 401,
+        "Title": "Ebrietas",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265613"
+      },
+      {
+        "Chapter": "E.2",
+        "Start": 401,
+        "End": 406,
+        "Title": "Electio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265616"
+      },
+      {
+        "Chapter": "E.3",
+        "Start": 406,
+        "End": 420,
+        "Title": "Eleemosina",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265621"
+      },
+      {
+        "Chapter": "E.4",
+        "Start": 420,
+        "End": 421,
+        "Title": "Equitas",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265635"
+      },
+      {
+        "Chapter": "E.5",
+        "Start": 421,
+        "End": 422,
+        "Title": "Erubescentia",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265636"
+      },
+      {
+        "Chapter": "E.6",
+        "Start": 422,
+        "End": 438,
+        "Title": "Eucharistia",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265637"
+      },
+      {
+        "Chapter": "E.7",
+        "Start": 438,
+        "End": 445,
+        "Title": "Exemplum",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265653"
+      },
+      {
+        "Chapter": "E.8",
+        "Start": 445,
+        "End": 455,
+        "Title": "Executores",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265660"
+      },
+      {
+        "Chapter": "E.9",
+        "Start": 455,
+        "End": 458,
+        "Title": "Excommunicatio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265670"
+      }
+    ]
+  },
+  {
+    "Initial": "F",
+    "Chapters": [
+      {
+        "Chapter": "F.1",
+        "Start": 458,
+        "End": 474,
+        "Title": "Falsitas",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265673"
+      },
+      {
+        "Chapter": "F.2",
+        "Start": 474,
+        "End": 478,
+        "Title": "Fama",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265689"
+      },
+      {
+        "Chapter": "F.3",
+        "Start": 478,
+        "End": 490,
+        "Title": "Ferie",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265693"
+      },
+      {
+        "Chapter": "F.4",
+        "Start": 490,
+        "End": 506,
+        "Title": "Fides",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265705"
+      },
+      {
+        "Chapter": "F.5",
+        "Start": 506,
+        "End": 513,
+        "Title": "Filiatio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265721"
+      },
+      {
+        "Chapter": "F.6",
+        "Start": 513,
+        "End": 514,
+        "Title": "Fortitudo",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265728"
+      },
+      {
+        "Chapter": "F.7",
+        "Start": 514,
+        "End": 516,
+        "Title": "Fraternitas",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265729"
+      },
+      {
+        "Chapter": "F.8",
+        "Start": 516,
+        "End": 521,
+        "Title": "Furtum",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265731"
+      }
+    ]
+  },
+  {
+    "Initial": "G",
+    "Chapters": [
+      {
+        "Chapter": "G.1",
+        "Start": 522,
+        "End": 532,
+        "Title": "Gaudium",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265737"
+      },
+      {
+        "Chapter": "G.2",
+        "Start": 532,
+        "End": 545,
+        "Title": "Gloria",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265747"
+      },
+      {
+        "Chapter": "G.3",
+        "Start": 545,
+        "End": 555,
+        "Title": "Gratia",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265760"
+      },
+      {
+        "Chapter": "G.4",
+        "Start": 555,
+        "End": 562,
+        "Title": "Gratitudo",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265770"
+      },
+      {
+        "Chapter": "G.5",
+        "Start": 562,
+        "End": 568,
+        "Title": "Gula",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265777"
+      }
+    ]
+  },
+  {
+    "Initial": "H",
+    "Chapters": [
+      {
+        "Chapter": "H.1",
+        "Start": 568,
+        "End": 576,
+        "Title": "Homo",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265783"
+      },
+      {
+        "Chapter": "H.2",
+        "Start": 576,
+        "End": 580,
+        "Title": "Homicidium",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265791"
+      },
+      {
+        "Chapter": "H.3",
+        "Start": 580,
+        "End": 581,
+        "Title": "Honestas",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265795"
+      },
+      {
+        "Chapter": "H.4",
+        "Start": 581,
+        "End": 587,
+        "Title": "Honor",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265796"
+      },
+      {
+        "Chapter": "H.5",
+        "Start": 587,
+        "End": 591,
+        "Title": "Hospitalitas",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265802"
+      },
+      {
+        "Chapter": "H.6",
+        "Start": 591,
+        "End": 598,
+        "Title": "Humilitas",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265806"
+      }
+    ]
+  },
+  {
+    "Initial": "I/J",
+    "Chapters": [
+      {
+        "Chapter": "I.1",
+        "Start": 599,
+        "End": 602,
+        "Title": "Ieiunium",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265814"
+      },
+      {
+        "Chapter": "I.2",
+        "Start": 602,
+        "End": 606,
+        "Title": "Inconstantia",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265817"
+      },
+      {
+        "Chapter": "I.3",
+        "Start": 606,
+        "End": 611,
+        "Title": "Infirmitas",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265821"
+      },
+      {
+        "Chapter": "I.4",
+        "Start": 611,
+        "End": 615,
+        "Title": "Inobedientia",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265826"
+      },
+      {
+        "Chapter": "I.5",
+        "Start": 615,
+        "End": 617,
+        "Title": "Intentio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265830"
+      },
+      {
+        "Chapter": "I.6",
+        "Start": 617,
+        "End": 626,
+        "Title": "Invidia",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265832"
+      },
+      {
+        "Chapter": "I.7",
+        "Start": 627,
+        "End": 630,
+        "Title": "Ipocrisis",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265842"
+      },
+      {
+        "Chapter": "I.8",
+        "Start": 630,
+        "End": 634,
+        "Title": "Ira",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265845"
+      },
+      {
+        "Chapter": "I.9",
+        "Start": 634,
+        "End": 645,
+        "Title": "Iudices",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265849"
+      },
+      {
+        "Chapter": "I.10",
+        "Start": 645,
+        "End": 653,
+        "Title": "Iudicium humanum",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265860"
+      },
+      {
+        "Chapter": "I.11",
+        "Start": 653,
+        "End": 661,
+        "Title": "Iudicium divinum",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265868"
+      },
+      {
+        "Chapter": "I.12",
+        "Start": 661,
+        "End": 672,
+        "Title": "Iuramentum",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265876"
+      },
+      {
+        "Chapter": "I.13",
+        "Start": 672,
+        "End": 685,
+        "Title": "Iustitia",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265887"
+      }
+    ]
+  },
+  {
+    "Initial": "L",
+    "Chapters": [
+      {
+        "Chapter": "L.1",
+        "Start": 686,
+        "End": 691,
+        "Title": "Labor",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265901"
+      },
+      {
+        "Chapter": "L.2",
+        "Start": 691,
+        "End": 692,
+        "Title": "Laus",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265906"
+      },
+      {
+        "Chapter": "L.3",
+        "Start": 692,
+        "End": 698,
+        "Title": "Leges",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265907"
+      },
+      {
+        "Chapter": "L.4",
+        "Start": 698,
+        "End": 702,
+        "Title": "Liber vite",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265913"
+      },
+      {
+        "Chapter": "L.5",
+        "Start": 703,
+        "End": 711,
+        "Title": "Locutio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265918"
+      },
+      {
+        "Chapter": "L.6",
+        "Start": 711,
+        "End": 713,
+        "Title": "Ludus",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265926"
+      },
+      {
+        "Chapter": "L.7",
+        "Start": 713,
+        "End": 728,
+        "Title": "Luxuria",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265928"
+      }
+    ]
+  },
+  {
+    "Chapter": "Vol2",
+    "Start": 729,
+    "End": 736,
+    "Title": "Vol. I End/Vol. II Front",
+    "Annotated": false,
+    "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265944"
+  },
+  {
+    "Initial": "M",
+    "Chapters": [
+      {
+        "Chapter": "M.1",
+        "Start": 737,
+        "End": 738,
+        "Title": "Maledictio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265955"
+      },
+      {
+        "Chapter": "M.2",
+        "Start": 738,
+        "End": 743,
+        "Title": "Mandatum",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265956"
+      },
+      {
+        "Chapter": "M.3",
+        "Start": 743,
+        "End": 755,
+        "Title": "Maria",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265961"
+      },
+      {
+        "Chapter": "M.4",
+        "Start": 755,
+        "End": 758,
+        "Title": "Matrimonium",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265973"
+      },
+      {
+        "Chapter": "M.5",
+        "Start": 758,
+        "End": 760,
+        "Title": "Mendacium",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265976"
+      },
+      {
+        "Chapter": "M.6",
+        "Start": 760,
+        "End": 766,
+        "Title": "Mercatio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265978"
+      },
+      {
+        "Chapter": "M.7",
+        "Start": 766,
+        "End": 769,
+        "Title": "Militia",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265984"
+      },
+      {
+        "Chapter": "M.8",
+        "Start": 769,
+        "End": 780,
+        "Title": "Ministratio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265987"
+      },
+      {
+        "Chapter": "M.9",
+        "Start": 780,
+        "End": 794,
+        "Title": "Misericordia",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265998"
+      },
+      {
+        "Chapter": "M.10",
+        "Start": 794,
+        "End": 796,
+        "Title": "Missa",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266012"
+      },
+      {
+        "Chapter": "M.11",
+        "Start": 796,
+        "End": 845,
+        "Title": "Mors",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266014"
+      },
+      {
+        "Chapter": "M.12",
+        "Start": 845,
+        "End": 849,
+        "Title": "Munditia",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266063"
+      },
+      {
+        "Chapter": "M.13",
+        "Start": 849,
+        "End": 859,
+        "Title": "Mundus",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266067"
+      },
+      {
+        "Chapter": "M.14",
+        "Start": 859,
+        "End": 864,
+        "Title": "Munera",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266077"
+      }
+    ]
+  },
+  {
+    "Initial": "N",
+    "Chapters": [
+      {
+        "Chapter": "N.1",
+        "Start": 864,
+        "End": 872,
+        "Title": "Nativitas",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266082"
+      },
+      {
+        "Chapter": "N.2",
+        "Start": 872,
+        "End": 873,
+        "Title": "Negligentia",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266090"
+      },
+      {
+        "Chapter": "N.3",
+        "Start": 873,
+        "End": 879,
+        "Title": "Nobilitas",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266091"
+      },
+      {
+        "Chapter": "N.4",
+        "Start": 880,
+        "End": 883,
+        "Title": "Nocumentum",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266098"
+      }
+    ]
+  },
+  {
+    "Initial": "O",
+    "Chapters": [
+      {
+        "Chapter": "O.1",
+        "Start": 883,
+        "End": 890,
+        "Title": "Obedientia",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266101"
+      },
+      {
+        "Chapter": "O.2",
+        "Start": 891,
+        "End": 892,
+        "Title": "Otium",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266109"
+      },
+      {
+        "Chapter": "O.3",
+        "Start": 892,
+        "End": 895,
+        "Title": "Odium",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266110"
+      },
+      {
+        "Chapter": "O.4",
+        "Start": 895,
+        "End": 900,
+        "Title": "Operatio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266113"
+      },
+      {
+        "Chapter": "O.5",
+        "Start": 900,
+        "End": 912,
+        "Title": "Oratio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266118"
+      },
+      {
+        "Chapter": "O.6",
+        "Start": 912,
+        "End": 942,
+        "Title": "Ordo clericalis",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266130"
+      },
+      {
+        "Chapter": "O.7",
+        "Start": 942,
+        "End": 949,
+        "Title": "Ornatus",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266160"
+      },
+      {
+        "Chapter": "O.8",
+        "Start": 949,
+        "End": 951,
+        "Title": "Ostensio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266167"
+      }
+    ]
+  },
+  {
+    "Initial": "P",
+    "Chapters": [
+      {
+        "Chapter": "P.1",
+        "Start": 951,
+        "End": 957,
+        "Title": "Patientia",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266169"
+      },
+      {
+        "Chapter": "P.2",
+        "Start": 957,
+        "End": 973,
+        "Title": "Passio Christi",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266175"
+      },
+      {
+        "Chapter": "P.3",
+        "Start": 973,
+        "End": 985,
+        "Title": "Paupertas",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266191"
+      },
+      {
+        "Chapter": "P.4",
+        "Start": 985,
+        "End": 996,
+        "Title": "Pax",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266203"
+      },
+      {
+        "Chapter": "P.5",
+        "Start": 996,
+        "End": 1006,
+        "Title": "Peccatum",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266214"
+      },
+      {
+        "Chapter": "P.6",
+        "Start": 1006,
+        "End": 1012,
+        "Title": "Peccator",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266224"
+      },
+      {
+        "Chapter": "P.7",
+        "Start": 1012,
+        "End": 1039,
+        "Title": "Penitentia",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266230"
+      },
+      {
+        "Chapter": "P.8",
+        "Start": 1039,
+        "End": 1051,
+        "Title": "Pena",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266257"
+      },
+      {
+        "Chapter": "P.9",
+        "Start": 1051,
+        "End": 1055,
+        "Title": "Perseverantia",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266269"
+      },
+      {
+        "Chapter": "P.10",
+        "Start": 1055,
+        "End": 1056,
+        "Title": "Pietas",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266273"
+      },
+      {
+        "Chapter": "P.11",
+        "Start": 1056,
+        "End": 1065,
+        "Title": "Predestinatio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266274"
+      },
+      {
+        "Chapter": "P.12",
+        "Start": 1065,
+        "End": 1079,
+        "Title": "Predicatio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266283"
+      },
+      {
+        "Chapter": "P.13",
+        "Start": 1079,
+        "End": 1104,
+        "Title": "Prelatio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266297"
+      },
+      {
+        "Chapter": "P.14",
+        "Start": 1104,
+        "End": 1108,
+        "Title": "Pulchritudo",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266322"
+      }
+    ]
+  },
+  {
+    "Initial": "Q",
+    "Chapters": [
+      {
+        "Chapter": "Q.1",
+        "Start": 1108,
+        "End": 1110,
+        "Title": "Querere",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266326"
+      }
+    ]
+  },
+  {
+    "Initial": "R",
+    "Chapters": [
+      {
+        "Chapter": "R.1",
+        "Start": 1110,
+        "End": 1125,
+        "Title": "Rapina",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266328"
+      },
+      {
+        "Chapter": "R.2",
+        "Start": 1125,
+        "End": 1132,
+        "Title": "Recidivum",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266343"
+      },
+      {
+        "Chapter": "R.3",
+        "Start": 1132,
+        "End": 1134,
+        "Title": "Redditio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266350"
+      },
+      {
+        "Chapter": "R.4",
+        "Start": 1134,
+        "End": 1139,
+        "Title": "Regimen",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266352"
+      },
+      {
+        "Chapter": "R.5",
+        "Start": 1139,
+        "End": 1168,
+        "Title": "Religio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266357"
+      },
+      {
+        "Chapter": "R.6",
+        "Start": 1168,
+        "End": 1175,
+        "Title": "Restitutio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266386"
+      },
+      {
+        "Chapter": "R.7",
+        "Start": 1175,
+        "End": 1181,
+        "Title": "Resurrectio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266393"
+      }
+    ]
+  },
+  {
+    "Initial": "S",
+    "Chapters": [
+      {
+        "Chapter": "S.1",
+        "Start": 1182,
+        "End": 1186,
+        "Title": "Sacerdotium",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266400"
+      },
+      {
+        "Chapter": "S.2",
+        "Start": 1186,
+        "End": 1189,
+        "Title": "Sanctitas et sanitas",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266404"
+      },
+      {
+        "Chapter": "S.3",
+        "Start": 1189,
+        "End": 1196,
+        "Title": "Sapientia",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266407"
+      },
+      {
+        "Chapter": "S.4",
+        "Start": 1196,
+        "End": 1204,
+        "Title": "Scientia",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266414"
+      },
+      {
+        "Chapter": "S.5",
+        "Start": 1204,
+        "End": 1206,
+        "Title": "Senectus",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266422"
+      },
+      {
+        "Chapter": "S.6",
+        "Start": 1206,
+        "End": 1208,
+        "Title": "Sensus",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266424"
+      },
+      {
+        "Chapter": "S.7",
+        "Start": 1208,
+        "End": 1210,
+        "Title": "Sequi",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266426"
+      },
+      {
+        "Chapter": "S.8",
+        "Start": 1210,
+        "End": 1219,
+        "Title": "Servire",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266428"
+      },
+      {
+        "Chapter": "S.9",
+        "Start": 1219,
+        "End": 1222,
+        "Title": "Simonia",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266437"
+      },
+      {
+        "Chapter": "S.10",
+        "Start": 1222,
+        "End": 1226,
+        "Title": "Societas",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266440"
+      },
+      {
+        "Chapter": "S.11",
+        "Start": 1226,
+        "End": 1233,
+        "Title": "Sortilegium",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266444"
+      },
+      {
+        "Chapter": "S.12",
+        "Start": 1233,
+        "End": 1236,
+        "Title": "Spes",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266451"
+      },
+      {
+        "Chapter": "S.13",
+        "Start": 1236,
+        "End": 1243,
+        "Title": "Spiritus sanctus",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266454"
+      },
+      {
+        "Chapter": "S.14",
+        "Start": 1243,
+        "End": 1251,
+        "Title": "Superbia",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266461"
+      }
+    ]
+  },
+  {
+    "Initial": "T",
+    "Chapters": [
+      {
+        "Chapter": "T.1",
+        "Start": 1251,
+        "End": 1261,
+        "Title": "Temptatio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266469"
+      },
+      {
+        "Chapter": "T.2",
+        "Start": 1262,
+        "End": 1264,
+        "Title": "Testimonium",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266480"
+      },
+      {
+        "Chapter": "T.3",
+        "Start": 1264,
+        "End": 1267,
+        "Title": "Timor",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266482"
+      },
+      {
+        "Chapter": "T.4",
+        "Start": 1267,
+        "End": 1273,
+        "Title": "Trinitas",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266485"
+      },
+      {
+        "Chapter": "T.5",
+        "Start": 1273,
+        "End": 1297,
+        "Title": "Tribulatio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266491"
+      }
+    ]
+  },
+  {
+    "Initial": "U/V",
+    "Chapters": [
+      {
+        "Chapter": "V.1",
+        "Start": 1297,
+        "End": 1301,
+        "Title": "Veritas",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266515"
+      },
+      {
+        "Chapter": "V.2",
+        "Start": 1301,
+        "End": 1304,
+        "Title": "Verba dei",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266519"
+      },
+      {
+        "Chapter": "V.3",
+        "Start": 1304,
+        "End": 1308,
+        "Title": "Via",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266522"
+      },
+      {
+        "Chapter": "V.4",
+        "Start": 1308,
+        "End": 1313,
+        "Title": "Videre",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266526"
+      },
+      {
+        "Chapter": "V.5",
+        "Start": 1313,
+        "End": 1318,
+        "Title": "Vindicta",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266531"
+      },
+      {
+        "Chapter": "V.6",
+        "Start": 1318,
+        "End": 1320,
+        "Title": "Virtus",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266536"
+      },
+      {
+        "Chapter": "V.7",
+        "Start": 1320,
+        "End": 1325,
+        "Title": "Vita",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266538"
+      },
+      {
+        "Chapter": "V.8",
+        "Start": 1325,
+        "End": 1343,
+        "Title": "Visitatio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266543"
+      },
+      {
+        "Chapter": "V.9",
+        "Start": 1343,
+        "End": 1351,
+        "Title": "Vocatio",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266561"
+      },
+      {
+        "Chapter": "V.10",
+        "Start": 1351,
+        "End": 1356,
+        "Title": "Voluntas",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266569"
+      },
+      {
+        "Chapter": "V.11",
+        "Start": 1356,
+        "End": 1361,
+        "Title": "Votum",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266574"
+      },
+      {
+        "Chapter": "V.12",
+        "Start": 1361,
+        "End": 1370,
+        "Title": "Usura",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266579"
+      }
+    ]
+  },
+  {
+    "Initial": "X/Ch",
+    "Chapters": [
+      {
+        "Chapter": "X.1",
+        "Start": 1370,
+        "End": 1380,
+        "Title": "Christus",
+        "Annotated": false,
+        "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266588"
+      }
+    ]
+  },
+  {
+    "Chapter": "Vol2Back",
+    "Start": 1381,
+    "End": 1384,
+    "Title": "Vol II Back",
+    "Annotated": false,
+    "Canvas": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13266599"
+  }
+]

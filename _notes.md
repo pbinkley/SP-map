@@ -3,6 +3,10 @@ NOTES
 - the only IIIF version of the Amerbach edition that I can find is https://iiif.biblissima.fr/collections/manifest/e4792067aa00794eb5e388411494b87963a5c319 
 - manifest: https://permalinkbnd.bnportugal.gov.pt/iiif/69702/manifest
 
+- switch to the Basel copy: https://www.e-rara.ch/bau_1/doi/10.3931/e-rara-18427 - see terms of use: Public Domain Mark, but they ask for credit and notification
+- manifest: https://www.e-rara.ch/i3f/v20/5788453/manifest
+
+
 ## SimpleAnnotationServer
 
 - installed on hoffnung: ~/sas

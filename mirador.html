@@ -13,9 +13,22 @@
     <div id="mirador" style="position: absolute; top: 0; bottom: 0; left: 0; right: 0;"></div>
     <script>document.write("<script type='text/javascript' src='https://mirador-dev.netlify.app/dist/mirador.min.js?v=" + Date.now() + "'><\/script>");</script>
     <script type="text/javascript">
+      var map = {
+{% for chapter in site.data.chapters %}
+  {% if chapter.Chapters %}
+    {% for chapter in chapter.Chapters %}
+      "{{chapter.Chapter}}": "{{chapter.Canvas}}",
+    {% endfor %}
+  {% else %}
+"{{chapter.Chapter}}": "{{chapter.Canvas}}"{% unless forloop.last %},{% endunless %}
+  {% endif %}
+{% endfor %}        
+      }
       var searchParams = new URLSearchParams(location.search);
-      var manifest = "manifests/" + searchParams.get('c') + ".json";
-      console.log(manifest);
+      var manifest = "manifest.json";
+      var chapter_id = searchParams.get('c');
+      var canvas = map[chapter_id];
+      console.log(manifest + " - " + canvas);
       var miradorInstance = Mirador.viewer({
         id: 'mirador',
         theme: {
@@ -33,15 +46,20 @@
          sideBarPanel: 'annotations',
          sideBarOpen: true,
          highlightAllAnnotations: true,
+         views: [
+          { key: 'single', behaviors: ['individuals', 'paged'] },
+          { key: 'book', behaviors: ['paged'] },
+          { key: 'scroll', behaviors: ['continuous'] },
+          { key: 'gallery' },
+        ],         
        },
        windows: [{
         id: 'known-window-id',
          manifestId: manifest,
+         canvasId: canvas,
          thumbnailNavigation: 'off',
+         defaultView: 'single',
        }],
-       catalog: [
-         { manifestId: "{{ site.url }}{{ site.baseurl }}/collection.json" },
-       ]
      });
 
       // We create the action first. Note we are using a specified `windowId` here. This could be accessed from the store instead of specifying upfront.
