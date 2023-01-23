@@ -24,9 +24,8 @@
   {% endif %}
 {% endfor %}        
       }
-      var searchParams = new URLSearchParams(location.search);
       var manifest = "manifest.json";
-      var chapter_id = searchParams.get('c');
+      var chapter_id = window.location.hash.replace("#", "");
       var canvas = map[chapter_id];
       console.log(manifest + " - " + canvas);
       var miradorInstance = Mirador.viewer({
