@@ -25,7 +25,16 @@
 {% endfor %}        
       }
       var manifest = "manifest.json";
-      var chapter_id = window.location.hash.replace("#", "");
+      var fragment_id = window.location.hash.replace("#", "");
+      // fragment_id may be non-chapter (Prol) or chapter (A.1) or 
+      //   chapter + paragraph (A.1.1 or A.1 Art.1)
+      var annotation_id = "";
+      var chapter_id = fragment_id;
+      if (fragment_id.includes(".")) {
+        chapter_id = fragment_id.match(/^[A-Z]\.[0-9]+/);
+        annotation_id = fragment_id.match(/.+\..+\.(?<anno>.*)/)["anno"];
+      }
+      // TODO handle annotation_id (which may be empty)
       var canvas = map[chapter_id];
       console.log(manifest + " - " + canvas);
       var miradorInstance = Mirador.viewer({
