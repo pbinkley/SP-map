@@ -30,7 +30,7 @@
       //   chapter + paragraph (A.1.1 or A.1 Art.1)
       var annotation_id = "";
       var chapter_id = fragment_id;
-      if (fragment_id.includes(".")) {
+      if (fragment_id.match(/.+\..+\..*/)) {
         chapter_id = fragment_id.match(/^[A-Z]\.[0-9]+/);
         annotation_id = fragment_id.match(/.+\..+\.(?<anno>.*)/)["anno"];
       }
