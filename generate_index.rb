@@ -42,7 +42,7 @@ indexes.each do |index|
 					f.write("\n") unless index == outputs.size - 1
 				end
 			end
-			references << "[#{entry['ref']}#{entry['asterisk'] == '*' ? '\*' : ''}](../mirador.html?c=#{entry['unit']}&p=#{entry['para']})"
+			references << "[#{entry['ref']}#{entry['asterisk'] == '*' ? '\*' : ''}](../mirador.html##{entry['unit']}.#{entry['para']})"
   			previous_citation = entry['citation']
   		end
 	end

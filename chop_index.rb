@@ -22,7 +22,7 @@ end
 
 output.keys.each do |initial|
 	puts initial
-	File.open("../SP-map/sections/#{initial}.md", "w", lf_newline: true) do |f|
+	File.open("../SP-map_pages/sections/#{initial}.md", "w", lf_newline: true) do |f|
 		f.puts "---\nlayout: page\ntitle: \"Index: #{initial}\"\n---\n\n"
 		f.puts ""
 		output[initial].each { |line| f.write(line) }
