@@ -1,0 +1,83 @@
+Problems with SP-map
+
+- weird behaviour in Mirador: requesting two tiles with negative coordinates:
+
+
+Tile 6/1_0 failed to load: https://www.e-rara.ch/bau_1/i3f/v20/13265295/4096,0,-750,4096/480,/0/default.jpg 
+
+manifest: https://pbinkley.github.io/SP-map/manifest.json
+info.json: https://www.e-rara.ch/bau_1/i3f/v20/13265295/info.json
+
+Manifest is API v.3 - 
+
+
+Here's the canvas:
+
+```
+{
+    "height": 4508,
+    "id": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265295",
+    "items": [
+        {
+            "id": "https://example.org/uuid/494f28dd-70c9-4b1c-a733-0e12bad69040",
+            "items": [
+                {
+                    "body": {
+                        "format": "image/jpeg",
+                        "height": 1347,
+                        "id": "https://www.e-rara.ch/bau_1/download/webcache/1000/13265295",
+                        "service": [
+                            {
+                                "@id": "https://www.e-rara.ch/bau_1/i3f/v20/13265295",
+                                "@type": "ImageService2",
+                                "profile": "http://iiif.io/api/image/2/level2.json"
+                            }
+                        ],
+                        "type": "Image",
+                        "width": 1000
+                    },
+                    "id": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/annotation/13265295",
+                    "motivation": "painting",
+                    "target": "https://www.e-rara.ch/bau_1/i3f/v20/5788453/canvas/13265295",
+                    "type": "Annotation"
+                }
+            ],
+            "type": "AnnotationPage"
+        }
+    ],
+    "label": {
+        "true": [
+            "[80]"
+        ]
+    },
+    "type": "Canvas",
+    "width": 3346
+},
+```
+
+
+Validation problems from https://presentation-validator.iiif.io/ :
+
+Error 1 of 3. Message: Additional properties are not allowed ('logo' was unexpected)
+
+    Detail:
+    Path: /[Additional properties are not allowed ('logo' was unexpected)]
+    Description:
+
+    {"@context":"[ ... ]","id":"https://pbinkley.github.io/SP-map/manifest.json","type":"Manifest","label":"{ ... }","metadata":"[ ... ]","requiredStatement":"{ ... }","thumbnail":"[ ... ]","rights":"https://creativecommons.org/publicdomain/mark/1.0/deed.de","logo":"[ ... ]","behavior":"[ ... ]","seeAlso":"[ ... ]","items":"[ ... ]","structures":"[ ... ]"}
+
+Error 2 of 3. Message: True is not of type 'string'
+
+    Detail:
+    Path: /requiredStatement/label/true[0]/[True is not of type 'string']
+    Description:
+
+    true
+
+Error 3 of 3. Message: 'https://creativecommons.org/publicdomain/mark/1.0/deed.de' does not match 'http://creativecommons.org/licenses/.*'
+
+    Detail:
+    Path: /rights/['https://creativecommons.org/publicdomain/mark/1.0/deed.de' does not match 'http://creativecommons.org/licenses/.*']
+    Description:
+
+    "https://creativecommons.org/publicdomain/mark/1.0/deed.de"
