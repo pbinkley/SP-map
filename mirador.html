@@ -8,10 +8,10 @@
     <meta name="theme-color" content="#000000">
     <title>Mirador</title>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">
+    <script src='https://unpkg.com/mirador@3.4.3/dist/mirador.min.js' integrity='sha384-IEKHYYr262JMZM3YemCpstzCBIhY9j7I4IRTnJMNHB2efvMhDdUqtgxAnbS5+tng' crossorigin='anonymous'></script>
   </head>
   <body>
     <div id="mirador" style="position: absolute; top: 0; bottom: 0; left: 0; right: 0;"></div>
-    <script>document.write("<script src='https://unpkg.com/mirador@3.4.3/dist/mirador.min.js' integrity='sha384-IEKHYYr262JMZM3YemCpstzCBIhY9j7I4IRTnJMNHB2efvMhDdUqtgxAnbS5+tng' crossorigin='anonymous'></script>");</script>
     <script type="text/javascript">
       var map = {
 {% for chapter in site.data.chapters %}
